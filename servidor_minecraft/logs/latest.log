@@ -1,0 +1,1316 @@
+[23:07:33] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[23:07:33] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[23:07:33] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[23:07:33] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
+[23:07:33] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_452, running on Linux:amd64:6.8.0-1027-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
+[23:07:33] [main/INFO] [FML]: Searching /workspaces/cuddly-spork/servidor_minecraft/./mods for mods
+[23:07:33] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from !mixinbooter-9.4.jar
+[23:07:33] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from [1.12.2] SecurityCraft v1.9.11.jar
+[23:07:33] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from _MixinBootstrap-1.1.0.jar
+[23:07:33] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in AquaAcrobatics-1.15.4.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[23:07:34] [main/WARN] [FML]: The coremod Aqua Acrobatics Transformer (com.fuzs.aquaacrobatics.core.AquaAcrobaticsCore) is not signed!
+[23:07:34] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Charm-1.12.2-1.4.1.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[23:07:34] [main/WARN] [FML]: The coremod svenhjol.charm.base.CharmLoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[23:07:34] [main/WARN] [FML]: The coremod CharmLoadingPlugin (svenhjol.charm.base.CharmLoadingPlugin) is not signed!
+[23:07:34] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in CreativeCore_v1.10.71_mc1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[23:07:34] [main/WARN] [FML]: The coremod com.creativemd.creativecore.core.CreativePatchingLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[23:07:34] [main/WARN] [FML]: The coremod CreativePatchingLoader (com.creativemd.creativecore.core.CreativePatchingLoader) is not signed!
+[23:07:34] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from DynamicSurroundings-1.12.2-3.6.1.0.jar
+[23:07:34] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in foamfix-0.10.15-1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[23:07:34] [main/WARN] [FML]: The coremod pl.asie.foamfix.coremod.FoamFixCore does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[23:07:34] [main/WARN] [FML]: The coremod Do not report to Forge! (If you haven't disabled the FoamFix coremod, try disabling it in the config! Note that this bit of text will still appear.) (pl.asie.foamfix.coremod.FoamFixCore) is not signed!
+[23:07:34] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Forgelin-1.8.4.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[23:07:34] [main/WARN] [FML]: The coremod net.shadowfacts.forgelin.preloader.ForgelinPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[23:07:34] [main/WARN] [FML]: The coremod ForgelinPlugin (net.shadowfacts.forgelin.preloader.ForgelinPlugin) is not signed!
+[23:07:34] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Future-MC-0.2.20.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[23:07:34] [main/WARN] [FML]: The coremod FutureMC (thedarkcolour.futuremc.asm.CoreLoader) is not signed!
+[23:07:34] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from hermitsarsenal-V1.jar
+[23:07:34] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from nocubesrptweaks-V5.1.jar
+[23:07:34] [main/WARN] [FML]: The coremod ObfuscatePlugin (com.mrcrayfish.obfuscate.asm.ObfuscatePlugin) is not signed!
+[23:07:34] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from SpartanWeaponry-1.12.2-1.6.0.jar
+[23:07:34] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[23:07:34] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
+[23:07:34] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/workspaces/cuddly-spork/servidor_minecraft/./mods/!mixinbooter-9.4.jar Service=LaunchWrapper Env=SERVER
+[23:07:34] [main/WARN] [FML]: The coremod zone.rong.mixinbooter.MixinBooterPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[23:07:34] [main/WARN] [FML]: The coremod MixinBooter (zone.rong.mixinbooter.MixinBooterPlugin) is not signed!
+[23:07:34] [main/INFO] [MixinBooter]: Initializing Mixins...
+[23:07:34] [main/INFO] [mixin]: Compatibility level set to JAVA_8
+[23:07:34] [main/INFO] [MixinBooter]: Initializing MixinExtras...
+[23:07:34] [main/WARN] [FML]: The coremod SecurityCraftLoadingPlugin (net.geforcemods.securitycraft.SecurityCraftLoadingPlugin) is not signed!
+[23:07:34] [main/WARN] [FML]: The coremod SpartanWeaponry-MixinLoader (com.oblivioussp.spartanweaponry.mixin.MixinLoader) is not signed!
+[23:07:34] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[23:07:34] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[23:07:34] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[23:07:34] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[23:07:34] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[23:07:34] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[23:07:34] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[23:07:34] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[23:07:34] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[23:07:34] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[23:07:35] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[23:07:35] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[23:07:35] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[23:07:35] [main/INFO] [Aqua Acrobatics Transformer]: Running in obf, thanks for playing with the mod!
+[23:07:35] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[23:07:35] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[23:07:36] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[23:07:36] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
+[23:07:36] [main/INFO] [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@7fc645e4
+[23:07:36] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[23:07:36] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[23:07:36] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[23:07:36] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[23:07:36] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[23:07:36] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[23:07:36] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[23:07:36] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[23:07:36] [main/INFO] [Meson ASM]: Transforming ItemChorusFruit
+[23:07:36] [main/INFO] [Meson ASM]: Applying Transformation to method (Names [onItemUseFinish, func_77654_b, a] Descriptor (Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Lnet/minecraft/entity/EntityLivingBase;)Lnet/minecraft/item/ItemStack; / (Laip;Lamu;Lvp;)Laip;)
+[23:07:36] [main/INFO] [Meson ASM]: Located method, patching...
+[23:07:36] [main/INFO] [Meson ASM]: Located target IFNE L0
+[23:07:36] [main/INFO] [Meson ASM]: Patch result: true
+[23:07:36] [main/INFO] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: A re-entrant transformer '$wrapper.svenhjol.charm.base.CharmClassTransformer' was detected and will no longer process meta class data
+[23:07:37] [main/INFO] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: A re-entrant transformer '$wrapper.thedarkcolour.futuremc.asm.CoreTransformer' was detected and will no longer process meta class data
+[23:07:37] [main/WARN] [mixin]: Error loading class: net/minecraft/world/biome/BiomeColorHelper$3 (java.lang.ClassNotFoundException: The specified class 'net.minecraft.world.biome.BiomeColorHelper$3' was not found)
+[23:07:37] [main/WARN] [mixin]: @Mixin target net/minecraft/world/biome/BiomeColorHelper$3 was not found META-INF/mixins.aquaacrobatics.json:BiomeColorHelperMixin from mod unknown-owner
+[23:07:37] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:101]: Added INTERFACE: pl/asie/foamfix/coremod/patches/IFoamFixWorldRemovable
+[23:07:37] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:141]: Added METHOD: net.minecraft.world.World.foamfix_removeUnloadedEntities
+[23:07:37] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.patches.WorldServerRemovalPatch:apply:57]: Patched updateEntities in net/minecraft/world/WorldServer func_72939_s
+[23:07:37] [main/INFO] [MixinExtras|Service]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
+[23:07:37] [main/INFO] [Meson ASM]: Transforming EntityPlayer
+[23:07:37] [main/INFO] [Meson ASM]: Applying Transformation to method (Names [getArmorVisibility, func_82243_bO, cW] Descriptor ()F / ()F)
+[23:07:37] [main/INFO] [Meson ASM]: Located method, patching...
+[23:07:37] [main/INFO] [Meson ASM]: Located target IINC 1 1
+[23:07:37] [main/INFO] [Meson ASM]: Patch result: true
+[23:07:37] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:101]: Added INTERFACE: pl/asie/foamfix/coremod/patches/IFoamFixWorldRemovable
+[23:07:37] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:141]: Added METHOD: net.minecraft.world.World.foamfix_removeUnloadedEntities
+[23:07:39] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[23:07:39] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.block.state.BlockStateContainer.createState
+[23:07:39] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.block.state.BlockStateContainer.foamfix_mapper
+[23:07:39] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.block.properties.PropertyEnum.equals
+[23:07:39] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.block.properties.PropertyEnum.hashCode
+[23:07:39] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.block.properties.PropertyEnum.foamfix_hashCode
+[23:07:39] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.block.properties.PropertyEnum.foamfix_hashCode_calced
+[23:07:39] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.block.properties.PropertyInteger.hashCode
+[23:07:39] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.block.properties.PropertyInteger.foamfix_hashCode
+[23:07:39] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.block.properties.PropertyInteger.foamfix_hashCode_calced
+[23:07:39] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.block.properties.PropertyBool.equals
+[23:07:39] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.block.properties.PropertyBool.hashCode
+[23:07:40] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.tileentity.TileEntity.func_190559_a
+[23:07:40] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.block.BlockBed.func_189540_a
+[23:07:40] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.patches.GhostBusterBlockStateAccessPatch$FFMethodVisitor:visitMethodInsn:93]: Added ghost buster patch (getBlockState call wrapped) in net/minecraft/block/BlockFarmland func_176530_e (net/minecraft/world/World func_180495_p (Lnet/minecraft/util/math/BlockPos;)Lnet/minecraft/block/state/IBlockState;)
+[23:07:40] [main/INFO] [Meson ASM]: Transforming TileEntityFurnace
+[23:07:40] [main/INFO] [Meson ASM]: Applying Transformation to method (Names [smeltItem, func_145949_j, o] Descriptor ()V / ()V)
+[23:07:40] [main/INFO] [Meson ASM]: Located method, patching...
+[23:07:40] [main/INFO] [Meson ASM]: Located target ASTORE 2
+[23:07:40] [main/INFO] [Meson ASM]: Patch result: true
+[23:07:40] [main/INFO] [Meson ASM]: Applying Transformation to method (Names [isItemValidForSlot, func_94041_b, b] Descriptor (ILnet/minecraft/item/ItemStack;)Z / (ILaip;)Z)
+[23:07:40] [main/INFO] [Meson ASM]: Located method, patching...
+[23:07:40] [main/INFO] [Meson ASM]: Located target ILOAD 1
+[23:07:40] [main/INFO] [Meson ASM]: Patch result: true
+[23:07:40] [main/INFO] [Meson ASM]: Transforming TileEntityBeacon
+[23:07:40] [main/INFO] [Meson ASM]: Applying Transformation to method (Names [addEffectsToPlayers, func_146000_x, E] Descriptor ()V / ()V)
+[23:07:40] [main/INFO] [Meson ASM]: Located method, patching...
+[23:07:40] [main/INFO] [Meson ASM]: Located target ALOAD 9
+[23:07:40] [main/INFO] [Meson ASM]: Patch result: true
+[23:07:40] [main/INFO] [Meson ASM]: Transforming EntityWither
+[23:07:40] [main/INFO] [Meson ASM]: Applying Transformation to method (Names [canDestroyBlock, func_181033_a, a] Descriptor (Lnet/minecraft/block/Block;)Z / (Lnet/minecraft/block/Block;)Z)
+[23:07:40] [main/INFO] [Meson ASM]: Failed to locate the method!
+[23:07:40] [main/INFO] [STDOUT]: [pl.asie.patchy.helpers.ConstructorReplacingTransformer$FFMethodVisitor:visitTypeInsn:73]: Replaced NEW for net/minecraft/tileentity/TileEntityHopper to pl/asie/foamfix/common/TileEntityFasterHopper
+[23:07:40] [main/INFO] [STDOUT]: [pl.asie.patchy.helpers.ConstructorReplacingTransformer$FFMethodVisitor:visitMethodInsn:85]: Replaced INVOKESPECIAL for net/minecraft/tileentity/TileEntityHopper to pl/asie/foamfix/common/TileEntityFasterHopper
+[23:07:40] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.tileentity.TileEntity.func_190559_a
+[23:07:40] [main/INFO] [Meson ASM]: Transforming TileEntityShulkerBox
+[23:07:40] [main/INFO] [Meson ASM]: Applying Transformation to method (Names [canInsertItem, func_180462_a, a] Descriptor (ILnet/minecraft/item/ItemStack;Lnet/minecraft/util/EnumFacing;)Z / (ILaip;Lnet/minecraft/util/EnumFacing;)Z)
+[23:07:40] [main/INFO] [Meson ASM]: Failed to locate the method!
+[23:07:40] [main/INFO] [Meson ASM]: Transforming ItemToolMaterial
+[23:07:40] [main/INFO] [Meson ASM]: Applying Transformation to method (Names [getMaxUses, func_77997_a, a] Descriptor ()I / ()I)
+[23:07:40] [main/INFO] [Meson ASM]: Located method, patching...
+[23:07:40] [main/INFO] [Meson ASM]: Located target GETFIELD ain$a.g : I
+[23:07:40] [main/INFO] [Meson ASM]: Patch result: true
+[23:07:40] [main/INFO] [Meson ASM]: Applying Transformation to method (Names [getEfficiency, func_77998_b, b] Descriptor ()F / ()F)
+[23:07:40] [main/INFO] [Meson ASM]: Located method, patching...
+[23:07:40] [main/INFO] [Meson ASM]: Located target GETFIELD ain$a.h : F
+[23:07:40] [main/INFO] [Meson ASM]: Patch result: true
+[23:07:40] [main/INFO] [Meson ASM]: Applying Transformation to method (Names [getAttackDamage, func_78000_c, c] Descriptor ()F / ()F)
+[23:07:40] [main/INFO] [Meson ASM]: Located method, patching...
+[23:07:40] [main/INFO] [Meson ASM]: Located target GETFIELD ain$a.i : F
+[23:07:40] [main/INFO] [Meson ASM]: Patch result: true
+[23:07:40] [main/INFO] [Meson ASM]: Applying Transformation to method (Names [getHarvestLevel, func_77996_d, d] Descriptor ()I / ()I)
+[23:07:40] [main/INFO] [Meson ASM]: Located method, patching...
+[23:07:40] [main/INFO] [Meson ASM]: Located target GETFIELD ain$a.f : I
+[23:07:40] [main/INFO] [Meson ASM]: Patch result: true
+[23:07:40] [main/INFO] [Meson ASM]: Applying Transformation to method (Names [getEnchantability, func_77995_e, e] Descriptor ()I / ()I)
+[23:07:40] [main/INFO] [Meson ASM]: Located method, patching...
+[23:07:40] [main/INFO] [Meson ASM]: Located target GETFIELD ain$a.j : I
+[23:07:40] [main/INFO] [Meson ASM]: Patch result: true
+[23:07:40] [main/INFO] [Meson ASM]: Transforming ItemChorusFruit
+[23:07:40] [main/INFO] [Meson ASM]: Applying Transformation to method (Names [onItemUseFinish, func_77654_b, a] Descriptor (Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Lnet/minecraft/entity/EntityLivingBase;)Lnet/minecraft/item/ItemStack; / (Laip;Lamu;Lvp;)Laip;)
+[23:07:40] [main/INFO] [Meson ASM]: Located method, patching...
+[23:07:40] [main/INFO] [Meson ASM]: Located target IFNE L0
+[23:07:40] [main/INFO] [Meson ASM]: Patch result: true
+[23:07:41] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:101]: Added INTERFACE: pl/asie/foamfix/api/IFoamFixMobSpawnerLogic
+[23:07:41] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.tileentity.MobSpawnerBaseLogic.func_98279_f
+[23:07:41] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.tileentity.MobSpawnerBaseLogic.foamfix_activatedCache
+[23:07:41] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.tileentity.MobSpawnerBaseLogic.foamfix_activatedCachePESize
+[23:07:41] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.tileentity.MobSpawnerBaseLogic.foamfix_activatedCacheTime
+[23:07:41] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.tileentity.MobSpawnerBaseLogic.foamfix_forcedCache
+[23:07:41] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.tileentity.MobSpawnerBaseLogic.foamfix_forcedCacheTime
+[23:07:42] [main/INFO] [Meson ASM]: Transforming ContainerFurnace
+[23:07:42] [main/INFO] [Meson ASM]: Applying Transformation to method (Names [<init>, <init>, ] Descriptor (Lnet/minecraft/entity/player/InventoryPlayer;Lnet/minecraft/inventory/IInventory;)V / (Laec;Ltv;)V)
+[23:07:42] [main/INFO] [Meson ASM]: Located method, patching...
+[23:07:42] [main/INFO] [Meson ASM]: Located target NEW agr
+[23:07:42] [main/INFO] [Meson ASM]: Patch result: true
+[23:07:42] [main/INFO] [Meson ASM]: Applying Transformation to method (Names [<init>, <init>, ] Descriptor (Lnet/minecraft/entity/player/InventoryPlayer;Lnet/minecraft/inventory/IInventory;)V / (Laec;Ltv;)V)
+[23:07:42] [main/INFO] [Meson ASM]: Located method, patching...
+[23:07:42] [main/INFO] [Meson ASM]: Located target INVOKESPECIAL agr.<init> (Ltv;III)V
+[23:07:42] [main/INFO] [Meson ASM]: Patch result: true
+[23:07:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[23:07:42] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
+[23:07:42] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[23:07:42] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[23:07:42] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[23:07:42] [Server thread/INFO] [MixinBooter]: Initializing MixinBooter's Mod Container.
+[23:07:42] [Server thread/INFO] [FML]: Searching /workspaces/cuddly-spork/servidor_minecraft/./mods for mods
+[23:07:43] [Server thread/WARN] [FML]: Mod securitycraft is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version v1.9.11
+[23:07:43] [Server thread/INFO] [FML]: Disabling mod ambientsounds it is client side only.
+[23:07:43] [Server thread/INFO] [FML]: Disabling mod ctgui it is client side only.
+[23:07:44] [Server thread/WARN] [FML]: Mod gokistats is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.2.10
+[23:07:44] [Server thread/WARN] [FML]: Mod hermitsarsenal is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version V1
+[23:07:44] [Server thread/WARN] [FML]: Mod ironchest is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-7.0.67.844
+[23:07:44] [Server thread/WARN] [FML]: Mod nocubesrptweaks is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version V5.1
+[23:07:44] [Server thread/WARN] [FML]: Mod swparasites is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version v3.1
+[23:07:44] [Server thread/INFO] [FML]: Forge Mod Loader has identified 68 mods to load
+[23:07:44] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[23:07:44] [Server thread/WARN] [FML]: Missing English translation for clumps: assets/clumps/lang/en_us.lang
+[23:07:44] [Server thread/WARN] [FML]: Missing English translation for crafttweakerjei: assets/crafttweakerjei/lang/en_us.lang
+[23:07:44] [Server thread/WARN] [FML]: Missing English translation for enchantedgoldenapplecrafting: assets/enchantedgoldenapplecrafting/lang/en_us.lang
+[23:07:44] [Server thread/WARN] [FML]: Missing English translation for examplemod: assets/examplemod/lang/en_us.lang
+[23:07:44] [Server thread/WARN] [FML]: Missing English translation for fastfurnace: assets/fastfurnace/lang/en_us.lang
+[23:07:44] [Server thread/WARN] [FML]: Missing English translation for fastleafdecay: assets/fastleafdecay/lang/en_us.lang
+[23:07:44] [Server thread/WARN] [FML]: Missing English translation for fastbench: assets/fastbench/lang/en_us.lang
+[23:07:44] [Server thread/WARN] [FML]: Missing English translation for foamfix: assets/foamfix/lang/en_us.lang
+[23:07:44] [Server thread/WARN] [FML]: Missing English translation for forgelin: assets/forgelin/lang/en_us.lang
+[23:07:44] [Server thread/WARN] [FML]: Missing English translation for placebo: assets/placebo/lang/en_us.lang
+[23:07:44] [Server thread/INFO] [FML]: FML has found a non-mod file AmbientSounds_v3.1.7_mc1.12.2.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[23:07:44] [Server thread/INFO] [MixinBooter]: Instantiating @MixinLoader annotated class: class com.fuzs.aquaacrobatics.core.ModCompatMixinHandler
+[23:07:44] [Server thread/INFO] [Aqua Acrobatics Transformer]: Aqua Acrobatics is loading mod compatibility mixins
+[23:07:44] [Server thread/WARN] [Aqua Acrobatics Transformer]: You have JourneyMap 1.12.2-5.7.1p2 installed. Only 1.12.2-5.5.4 and 1.12.2-5.7.1 are patched for water color compatibility.
+[23:07:45] [Server thread/WARN] [mixin]: Error loading class: com/existingeevee/nocubesrptweaks/entities/EntityWormToothKnifeReplacement$Renderer (net.minecraftforge.fml.common.asm.ASMTransformerWrapper$TransformerException: Exception in class transformer net.minecraftforge.fml.common.asm.transformers.SideTransformer@749ab7b4 from coremod FMLCorePlugin)
+[23:07:45] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, creativecoredummy, mixinbooter, foamfixcore, obfuscate, securitycraft, apexguns, aquaacrobatics, bookshelf, carryon, charm, clumps, crafttweaker, crafttweakerjei, creativecore, croparia, dsurround, editmobdrops, enchantedgoldenapplecrafting, examplemod, eplus, fantasticlib, fastfurnace, fastleafdecay, fastbench, foamfix, forgelin, futuremc, futurefireproof, gokistats, gunpowder, cgm, hermitsarsenal, ichunutil, ironchest, jei, journeymap, lostcities, mcwfences, nocubessrparmory, nocubessrpnests, nocubessrpsurvival, nocubesrptweaks, nolives, omlib, ompd, openmodularturrets, overlast, placebo, playerrevive, randomenchantments, scalinghealth, silentlib, spartannetherite, spartanshields, spartanweaponry, srparasites, scapeandrunvaccine, swparasites, tombstone, torohud, travelersbackpack, walljump, orelib, supertools] at CLIENT
+[23:07:45] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, creativecoredummy, mixinbooter, foamfixcore, obfuscate, securitycraft, apexguns, aquaacrobatics, bookshelf, carryon, charm, clumps, crafttweaker, crafttweakerjei, creativecore, croparia, dsurround, editmobdrops, enchantedgoldenapplecrafting, examplemod, eplus, fantasticlib, fastfurnace, fastleafdecay, fastbench, foamfix, forgelin, futuremc, futurefireproof, gokistats, gunpowder, cgm, hermitsarsenal, ichunutil, ironchest, jei, journeymap, lostcities, mcwfences, nocubessrparmory, nocubessrpnests, nocubessrpsurvival, nocubesrptweaks, nolives, omlib, ompd, openmodularturrets, overlast, placebo, playerrevive, randomenchantments, scalinghealth, silentlib, spartannetherite, spartanshields, spartanweaponry, srparasites, scapeandrunvaccine, swparasites, tombstone, torohud, travelersbackpack, walljump, orelib, supertools] at SERVER
+[23:07:45] [Server thread/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.network.PacketBuffer.func_180714_a
+[23:07:46] [Server thread/ERROR] [FML]: The mod carryon is expecting signature fd21553434f4905f2f73ea7838147ac4ea07bd88 for source carryon-1.12.2-1.12.7.23.jar, however there is no signature matching that description
+[23:07:46] [Server thread/INFO] [Meson ASM]: Transforming BrewingRecipeRegistry
+[23:07:46] [Server thread/INFO] [Meson ASM]: Applying Transformation to method (Names [isValidInput, isValidInput, ] Descriptor (Lnet/minecraft/item/ItemStack;)Z / (Laip;)Z)
+[23:07:46] [Server thread/INFO] [Meson ASM]: Located method, patching...
+[23:07:46] [Server thread/INFO] [Meson ASM]: Located target IF_ICMPEQ L0
+[23:07:46] [Server thread/INFO] [Meson ASM]: Patch result: true
+[23:07:47] [Server thread/INFO] [STDOUT]: [pl.asie.patchy.helpers.ConstructorReplacingTransformer$FFMethodVisitor:visitTypeInsn:73]: Replaced NEW for net/minecraft/util/ClassInheritanceMultiMap to pl/asie/foamfix/coremod/common/FoamyClassInheritanceMultiMap
+[23:07:47] [Server thread/INFO] [STDOUT]: [pl.asie.patchy.helpers.ConstructorReplacingTransformer$FFMethodVisitor:visitMethodInsn:85]: Replaced INVOKESPECIAL for net/minecraft/util/ClassInheritanceMultiMap to pl/asie/foamfix/coremod/common/FoamyClassInheritanceMultiMap
+[23:07:48] [Server thread/INFO] [STDOUT]: [pl.asie.foamfix.coremod.patches.GhostBusterDefinitionPatch:apply:136]: Added ghost buster patch (radius = 4) in net/minecraftforge/fluids/BlockFluidClassic func_180650_b
+[23:07:49] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[23:07:50] [Server thread/INFO] [FML]: Found 1554 ObjectHolder annotations
+[23:07:50] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[23:07:50] [Server thread/INFO] [FML]: Found 1 ItemStackHolder annotations
+[23:07:50] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[23:07:50] [Forge Version Check/INFO] [forge.VersionCheck]: [orelib] Starting version check at https://raw.githubusercontent.com/OreCruncher/OreLib/master/version.json
+[23:07:50] [Server thread/INFO] [Obfuscate]: Successfully injected SyncedPlayerData capability
+[23:07:50] [Forge Version Check/INFO] [forge.VersionCheck]: [orelib] Found status: UP_TO_DATE Target: null
+[23:07:50] [Forge Version Check/INFO] [forge.VersionCheck]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[23:07:50] [Forge Version Check/INFO] [forge.VersionCheck]: [tombstone] Found status: OUTDATED Target: 4.7.5
+[23:07:50] [Forge Version Check/INFO] [forge.VersionCheck]: [crafttweaker] Starting version check at https://updates.blamejared.com/get?n=crafttweaker&gv=1.12.2
+[23:07:50] [Forge Version Check/INFO] [forge.VersionCheck]: [crafttweaker] Found status: BETA Target: null
+[23:07:50] [Forge Version Check/INFO] [forge.VersionCheck]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[23:07:50] [Forge Version Check/INFO] [forge.VersionCheck]: [travelersbackpack] Found status: AHEAD Target: null
+[23:07:50] [Forge Version Check/INFO] [forge.VersionCheck]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[23:07:50] [Forge Version Check/INFO] [forge.VersionCheck]: [securitycraft] Found status: OUTDATED Target: v1.10
+[23:07:50] [Forge Version Check/INFO] [forge.VersionCheck]: [carryon] Starting version check at https://gist.githubusercontent.com/Tschipp/dccadee7c90d7a34e6e76a35d9d6fa2e/raw/
+[23:07:50] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class com.mrcrayfish.guns.event.CommonEvents
+[23:07:50] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class com.mrcrayfish.guns.event.CommonEvents
+[23:07:50] [Forge Version Check/INFO] [forge.VersionCheck]: [dsurround] Starting version check at https://raw.githubusercontent.com/OreCruncher/DynamicSurroundings/master/version.json
+[23:07:50] [Server thread/INFO] [apexguns]: Started loading config. 
+[23:07:50] [Server thread/INFO] [apexguns]: Finished loading config. 
+[23:07:50] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[23:07:51] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
+[23:07:51] [Forge Version Check/INFO] [forge.VersionCheck]: [fastleafdecay] Starting version check at http://www.olafkeijsers.net/fastleafdecay-update.json
+[23:07:51] [Server thread/INFO] [Meson]: Configuring feature GunpowderBlock
+[23:07:51] [Server thread/INFO] [Meson]: Configuring feature RedstoneSand
+[23:07:51] [Server thread/INFO] [Meson]: Configuring feature VariableRedstoneLamp
+[23:07:51] [Server thread/INFO] [Meson]: Configuring feature Coffee
+[23:07:51] [Server thread/INFO] [Meson]: Configuring feature Decay
+[23:07:51] [Server thread/INFO] [Meson]: Configuring feature EnderSight
+[23:07:51] [Server thread/INFO] [Meson]: Configuring feature FlavoredCake
+[23:07:51] [Server thread/INFO] [Meson]: Configuring feature PoisonousPotatoBrew
+[23:07:51] [Server thread/INFO] [Meson]: Configuring feature Barrel
+[23:07:51] [Server thread/INFO] [Meson]: Configuring feature BookshelfChest
+[23:07:51] [Server thread/INFO] [Meson]: Configuring feature Composter
+[23:07:51] [Server thread/INFO] [Meson]: Configuring feature Crate
+[23:07:51] [Server thread/INFO] [Meson]: Configuring feature EnderPearlBlock
+[23:07:51] [Server thread/INFO] [Meson]: Configuring feature Lantern
+[23:07:51] [Server thread/INFO] [Meson]: Configuring feature RottenFleshBlock
+[23:07:51] [Server thread/INFO] [Meson]: Configuring feature SmoothGlowstone
+[23:07:51] [Server thread/INFO] [Meson]: Configuring feature SuspiciousSoup
+[23:07:51] [Server thread/INFO] [Meson]: Configuring feature CurseBreak
+[23:07:51] [Server thread/INFO] [Meson]: Configuring feature ExtraCurses
+[23:07:51] [Server thread/INFO] [Meson]: Configuring feature Homing
+[23:07:51] [Server thread/INFO] [Meson]: Configuring feature Magnetic
+[23:07:51] [Server thread/INFO] [Meson]: Configuring feature Salvage
+[23:07:51] [Server thread/INFO] [Meson]: Configuring feature DecreaseRepairCost
+[23:07:51] [Server thread/INFO] [Meson]: Configuring feature ExtendTotemOfReturning
+[23:07:51] [Server thread/INFO] [Meson]: Configuring feature ExtractBookXP
+[23:07:51] [Server thread/INFO] [Meson]: Configuring feature ExtractEnchantments
+[23:07:51] [Server thread/INFO] [Meson]: Configuring feature TallowIncreasesDurability
+[23:07:51] [Server thread/INFO] [Meson]: Configuring feature CactusWater
+[23:07:51] [Server thread/INFO] [Meson]: Configuring feature CauldronWaterSource
+[23:07:51] [Server thread/INFO] [Meson]: Configuring feature CompassBinding
+[23:07:51] [Server thread/INFO] [Meson]: Configuring feature DispensersUseAnyBow
+[23:07:51] [Server thread/INFO] [Meson]: Configuring feature ExtraRecords
+[23:07:51] [Server thread/INFO] [Meson]: Configuring feature FurnacesRecycleMore
+[23:07:51] [Server thread/INFO] [Meson]: Configuring feature GoldToolImprovements
+[23:07:51] [Server thread/INFO] [Meson]: Configuring feature LeatherArmorInvisibility
+[23:07:51] [Server thread/INFO] [Meson]: Configuring feature PickaxesBreakPistons
+[23:07:51] [Server thread/INFO] [Meson]: Configuring feature RandomAnimalTextures
+[23:07:51] [Server thread/INFO] [Meson]: Configuring feature RecordsStopBackgroundMusic
+[23:07:51] [Server thread/INFO] [Meson]: Configuring feature RemoveNitwits
+[23:07:51] [Server thread/INFO] [Meson]: Configuring feature RestrictFurnaceInput
+[23:07:51] [Server thread/INFO] [Meson]: Configuring feature ShearedMelons
+[23:07:51] [Server thread/INFO] [Meson]: Configuring feature SpongesReduceFallDamage
+[23:07:51] [Server thread/INFO] [Meson]: Configuring feature StackableEnchantedBooks
+[23:07:51] [Server thread/INFO] [Meson]: Configuring feature StackableMilkBuckets
+[23:07:51] [Server thread/INFO] [Meson]: Configuring feature StackablePotions
+[23:07:51] [Server thread/INFO] [Meson]: Configuring feature TamedAnimalsHealing
+[23:07:51] [Server thread/INFO] [Meson]: Configuring feature TamedAnimalsNoDamage
+[23:07:51] [Server thread/INFO] [Meson]: Configuring feature UseTotemFromInventory
+[23:07:51] [Server thread/INFO] [Meson]: Configuring feature WaterInHotBiomes
+[23:07:51] [Server thread/INFO] [Meson]: Configuring feature WitchesDropDecay
+[23:07:51] [Server thread/INFO] [Meson]: Configuring feature WitchesDropLuck
+[23:07:51] [Server thread/INFO] [Meson]: Configuring feature WitchHatProtection
+[23:07:51] [Server thread/INFO] [Meson]: Configuring feature AbandonedCrates
+[23:07:51] [Server thread/INFO] [Meson]: Configuring feature BatBucket
+[23:07:51] [Server thread/INFO] [Meson]: Configuring feature ChargedEmeralds
+[23:07:51] [Server thread/INFO] [Meson]: Configuring feature EndermitePowder
+[23:07:51] [Server thread/INFO] [Meson]: Configuring feature EndPortalRunes
+[23:07:51] [Server thread/INFO] [Meson]: Configuring feature IllusionersInRoofedForest
+[23:07:51] [Server thread/INFO] [Meson]: Configuring feature Moonstone
+[23:07:51] [Server thread/INFO] [Meson]: Configuring feature MoreVillageBiomes
+[23:07:51] [Server thread/INFO] [Meson]: Configuring feature NetherGoldDeposits
+[23:07:51] [Server thread/INFO] [Meson]: Configuring feature Spectre
+[23:07:51] [Server thread/INFO] [Meson]: Configuring feature SpectreHaunting
+[23:07:51] [Server thread/INFO] [Meson]: Configuring feature StructureMaps
+[23:07:51] [Server thread/INFO] [Meson]: Configuring feature SwampHutDecorations
+[23:07:51] [Server thread/INFO] [Meson]: Configuring feature TotemOfReturning
+[23:07:51] [Server thread/INFO] [Meson]: Configuring feature TotemOfShielding
+[23:07:51] [Server thread/INFO] [Meson]: Configuring feature VillageDecorations
+[23:07:51] [Server thread/INFO] [Meson]: Configuring feature VillagerTrades
+[23:07:51] [Server thread/INFO] [Meson]: Configuring feature VindicatorsInRoofedForest
+[23:07:51] [Server thread/INFO] [Meson]: Starting module CharmAutomation
+[23:07:51] [Server thread/INFO] [Meson]: Starting feature GunpowderBlock
+[23:07:51] [Server thread/INFO] [Meson]: Starting feature RedstoneSand
+[23:07:51] [Server thread/INFO] [Meson]: Starting feature VariableRedstoneLamp
+[23:07:51] [Server thread/INFO] [Meson]: Starting module CharmBrewing
+[23:07:51] [Server thread/INFO] [Meson]: Starting feature Coffee
+[23:07:51] [Server thread/INFO] [Meson]: Starting feature Decay
+[23:07:51] [Server thread/INFO] [Meson]: Starting feature EnderSight
+[23:07:51] [Server thread/INFO] [Meson]: Starting feature FlavoredCake
+[23:07:51] [Server thread/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.client.renderer.block.model.ModelResourceLocation.<init>
+[23:07:51] [Server thread/INFO] [Meson]: Starting feature PoisonousPotatoBrew
+[23:07:51] [Server thread/INFO] [Meson]: Starting module CharmCrafting
+[23:07:51] [Server thread/INFO] [Meson]: Starting feature Barrel
+[23:07:51] [Server thread/INFO] [Meson]: Starting feature BookshelfChest
+[23:07:51] [Server thread/INFO] [Meson]: Starting feature Crate
+[23:07:51] [Server thread/INFO] [Meson]: Starting feature EnderPearlBlock
+[23:07:51] [Server thread/INFO] [Meson]: Starting feature Lantern
+[23:07:51] [Server thread/INFO] [Meson]: Starting feature RottenFleshBlock
+[23:07:51] [Server thread/INFO] [Meson]: Starting feature SmoothGlowstone
+[23:07:51] [Server thread/INFO] [Meson]: Starting feature SuspiciousSoup
+[23:07:51] [Server thread/INFO] [Meson]: Starting module CharmEnchanting
+[23:07:51] [Server thread/INFO] [Meson]: Starting feature CurseBreak
+[23:07:51] [Server thread/INFO] [Meson]: Starting feature ExtraCurses
+[23:07:51] [Server thread/INFO] [Meson]: Starting feature Homing
+[23:07:51] [Server thread/INFO] [Meson]: Starting feature Magnetic
+[23:07:51] [Server thread/INFO] [Meson]: Starting feature Salvage
+[23:07:51] [Server thread/INFO] [Meson]: Starting module CharmSmithing
+[23:07:51] [Server thread/INFO] [Meson]: Starting feature DecreaseRepairCost
+[23:07:51] [Server thread/INFO] [Meson]: Starting feature ExtendTotemOfReturning
+[23:07:51] [Server thread/INFO] [Meson]: Starting feature ExtractBookXP
+[23:07:51] [Server thread/INFO] [Meson]: Starting feature ExtractEnchantments
+[23:07:51] [Server thread/INFO] [Meson]: Starting module CharmTweaks
+[23:07:51] [Server thread/INFO] [Meson]: Starting feature CactusWater
+[23:07:51] [Server thread/INFO] [Meson]: Starting feature CauldronWaterSource
+[23:07:51] [Server thread/INFO] [Meson]: Starting feature CompassBinding
+[23:07:51] [Server thread/INFO] [Meson]: Starting feature DispensersUseAnyBow
+[23:07:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `dispenser`, expected `charm`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:51] [Server thread/INFO] [Meson]: Starting feature ExtraRecords
+[23:07:51] [Server thread/INFO] [Meson]: Starting feature FurnacesRecycleMore
+[23:07:51] [Server thread/INFO] [Meson]: Starting feature GoldToolImprovements
+[23:07:51] [Server thread/INFO] [Meson]: Starting feature LeatherArmorInvisibility
+[23:07:51] [Server thread/INFO] [Meson]: Starting feature PickaxesBreakPistons
+[23:07:51] [Server thread/INFO] [Meson]: Starting feature RandomAnimalTextures
+[23:07:51] [Server thread/INFO] [Meson]: Starting feature RecordsStopBackgroundMusic
+[23:07:51] [Server thread/INFO] [Meson]: Starting feature RemoveNitwits
+[23:07:51] [Server thread/INFO] [Meson]: Starting feature RestrictFurnaceInput
+[23:07:51] [Server thread/INFO] [Meson]: Starting feature ShearedMelons
+[23:07:51] [Server thread/INFO] [Meson]: Starting feature SpongesReduceFallDamage
+[23:07:51] [Server thread/INFO] [Meson]: Starting feature StackableEnchantedBooks
+[23:07:51] [Server thread/INFO] [Meson]: Starting feature StackableMilkBuckets
+[23:07:51] [Server thread/INFO] [Meson]: Starting feature StackablePotions
+[23:07:51] [Server thread/INFO] [Meson]: Starting feature TamedAnimalsHealing
+[23:07:51] [Server thread/INFO] [Meson]: Starting feature TamedAnimalsNoDamage
+[23:07:51] [Server thread/INFO] [Meson]: Starting feature UseTotemFromInventory
+[23:07:51] [Server thread/INFO] [Meson]: Starting feature WaterInHotBiomes
+[23:07:51] [Server thread/INFO] [Meson]: Starting feature WitchesDropDecay
+[23:07:51] [Server thread/INFO] [Meson]: Starting feature WitchesDropLuck
+[23:07:51] [Server thread/INFO] [Meson]: Starting module CharmWorld
+[23:07:51] [Server thread/INFO] [Meson]: Starting feature AbandonedCrates
+[23:07:51] [Server thread/INFO] [Meson]: Starting feature BatBucket
+[23:07:51] [Server thread/INFO] [Meson]: Starting feature ChargedEmeralds
+[23:07:51] [Server thread/INFO] [Meson]: Starting feature EndermitePowder
+[23:07:51] [Server thread/INFO] [Meson]: Starting feature IllusionersInRoofedForest
+[23:07:51] [Server thread/INFO] [Meson]: Starting feature Moonstone
+[23:07:51] [Server thread/INFO] [Meson]: Starting feature MoreVillageBiomes
+[23:07:51] [Server thread/INFO] [Meson ASM]: Transforming StructureVillagePieces$Village
+[23:07:51] [Server thread/INFO] [Meson ASM]: Applying Transformation to method (Names [biomeDoor, func_189925_i, i] Descriptor ()Lnet/minecraft/block/BlockDoor; / ()Laqa;)
+[23:07:51] [Server thread/INFO] [Meson ASM]: Located method, patching...
+[23:07:51] [Server thread/INFO] [Meson ASM]: Located target ALOAD 0
+[23:07:51] [Server thread/INFO] [Meson ASM]: Patch result: true
+[23:07:51] [Server thread/INFO] [Meson ASM]: Transforming StructureStart
+[23:07:51] [Server thread/INFO] [Meson ASM]: Applying Transformation to method (Names [generateStructure, func_75068_a, a] Descriptor (Lnet/minecraft/world/World;Ljava/util/Random;Lnet/minecraft/world/gen/structure/StructureBoundingBox;)V / (Lamu;Ljava/util/Random;Lbbg;)V)
+[23:07:51] [Server thread/INFO] [Meson ASM]: Located method, patching...
+[23:07:51] [Server thread/INFO] [Meson ASM]: Located target INVOKEVIRTUAL bbx.a (Lamu;Ljava/util/Random;Lbbg;)Z
+[23:07:51] [Server thread/INFO] [Meson ASM]: Patch result: true
+[23:07:51] [Server thread/INFO] [Meson]: Starting feature NetherGoldDeposits
+[23:07:51] [Server thread/INFO] [Meson]: Starting feature Spectre
+[23:07:51] [Server thread/INFO] [Meson]: Starting feature SpectreHaunting
+[23:07:51] [Server thread/INFO] [Meson]: Starting feature StructureMaps
+[23:07:51] [Server thread/INFO] [Meson]: Starting feature SwampHutDecorations
+[23:07:51] [Server thread/INFO] [Meson]: Starting feature TotemOfReturning
+[23:07:51] [Server thread/INFO] [Meson]: Starting feature TotemOfShielding
+[23:07:51] [Server thread/INFO] [Meson]: Starting feature VillageDecorations
+[23:07:51] [Server thread/INFO] [Meson]: Starting feature VillagerTrades
+[23:07:51] [Server thread/INFO] [Meson]: Starting feature VindicatorsInRoofedForest
+[23:07:51] [Server thread/INFO] [STDOUT]: [pl.asie.foamfix.coremod.patches.WorldServerRemovalPatch:apply:57]: Patched updateEntities in net/minecraft/world/WorldServer func_72939_s
+[23:07:51] [Server thread/INFO] [orelib]: Loading language resources [orelib:en_us]
+[23:07:51] [Forge Version Check/INFO] [forge.VersionCheck]: [fastleafdecay] Found status: UP_TO_DATE Target: null
+[23:07:51] [Forge Version Check/INFO] [forge.VersionCheck]: [gokistats] Starting version check at https://infinitystudio.github.io/Updates/gokistats.json
+[23:07:51] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$profiles::PATH]
+[23:07:51] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$commands::PATH]
+[23:07:51] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$commands$calc::PATH]
+[23:07:51] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$commands$ds::PATH]
+[23:07:51] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$speechbubbles::PATH]
+[23:07:51] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$player::PATH]
+[23:07:51] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$sound::PATH]
+[23:07:51] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$effects::PATH]
+[23:07:51] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$biomes::PATH]
+[23:07:51] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$aurora::PATH]
+[23:07:51] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$general::PATH]
+[23:07:51] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$fog::PATH]
+[23:07:51] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$rain::PATH]
+[23:07:51] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$logging::PATH]
+[23:07:51] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$asm::PATH]
+[23:07:51] [Server thread/INFO] [orelib]: Loading language resources [dsurround:en_us]
+[23:07:51] [Forge Version Check/INFO] [forge.VersionCheck]: [gokistats] Found status: AHEAD Target: null
+[23:07:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `furnace`, expected `fastfurnace`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:52] [Server thread/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraftforge.common.property.ExtendedBlockState.createState
+[23:07:52] [Server thread/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraftforge.common.property.ExtendedBlockState.foamfix_mapper
+[23:07:52] [Server thread/INFO] [foamfix]: Removing LaunchWrapper package manifest map...
+[23:07:52] [Server thread/INFO] [Future Fireproof]: Starting Future Fireproof
+[23:07:52] [Server thread/ERROR] [nolives]: Config directory either already exists or couldn't be created
+[23:07:52] [Server thread/INFO] [omlib]: Found the following mods: 
+[23:07:52] [Server thread/INFO] [Spartan Shields]: Starting up Spartan Shields!
+[23:07:53] [Server thread/INFO] [Scaling Health]: Trying to change max health cap to 2048
+[23:07:53] [Server thread/INFO] [Scaling Health]: Config successfully loaded!
+[23:07:53] [Server thread/INFO] [Spartan Weaponry]: Starting up Spartan Weaponry!
+[23:07:53] [Server thread/INFO] [Spartan Weaponry]: API: Loaded internal method handler. API functionality should work now!
+[23:07:53] [Server thread/INFO] [Spartan Weaponry]: Defined config version: 2.0 - Loaded config version: 2.0
+[23:07:53] [Server thread/INFO] [spartannetherite]: Starting Spartan Netherite.
+[23:07:53] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectWater as a FluidEffect for water with the ID 0
+[23:07:53] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectLava as a FluidEffect for lava with the ID 1
+[23:07:53] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectMilk as a FluidEffect for milk with the ID 2
+[23:07:53] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectPotion as a FluidEffect for potion with the ID 3
+[23:07:53] [Server thread/INFO] [travelersbackpack]: Starting the Integration Handler.
+[23:07:53] [Server thread/INFO] [travelersbackpack]: Didn't find any possible mod integration(s)!
+[23:07:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `eplus.advanced.table`, expected `eplus`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `eplus.decorative.book`, expected `eplus`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.iron`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.gold`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.diamond`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.copper`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.silver`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.crystal`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.obsidian`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.dirtchest9000`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.iron`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.gold`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.diamond`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.copper`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.silver`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.crystal`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.obsidian`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `furnace`, expected `fastfurnace`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `lit_furnace`, expected `fastfurnace`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:54] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `crafting_table`, expected `fastbench`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:54] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `crafting_table`, expected `fastbench`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:54] [Server thread/INFO] [FML]: Applying holder lookups
+[23:07:54] [Server thread/INFO] [FML]: Holder lookups applied
+[23:07:54] [Server thread/INFO] [Spartan Shields]: Items Registered!
+[23:07:54] [Server thread/INFO] [Spartan Weaponry]: Registering 10 modded material based weapons
+[23:07:54] [Server thread/INFO] [Spartan Weaponry]: Adding weapons for materials: Copper, Tin, Bronze, Steel, Silver, Invar, Platinum, Electrum, Nickel, Lead
+[23:07:54] [Server thread/INFO] [Spartan Weaponry]: Items Registered!
+[23:07:54] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `furnace`, expected `fastfurnace`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:54] [Server thread/INFO] [FML]: Applying holder lookups
+[23:07:54] [Server thread/INFO] [FML]: Holder lookups applied
+[23:07:54] [Server thread/INFO] [randomenchantments]: Registered 41 enchantments!
+[23:07:54] [Server thread/INFO] [Spartan Weaponry]: Registering Enchantments!
+[23:07:54] [Server thread/INFO] [Spartan Weaponry]: Registering entities!
+[23:07:55] [Server thread/INFO] [FML]: Applying holder lookups
+[23:07:55] [Server thread/INFO] [FML]: Holder lookups applied
+[23:07:55] [Server thread/INFO] [FML]: Applying holder lookups
+[23:07:55] [Server thread/INFO] [FML]: Holder lookups applied
+[23:07:55] [Server thread/INFO] [FML]: Injecting itemstacks
+[23:07:55] [Server thread/INFO] [FML]: Itemstack injection complete
+[23:07:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[23:07:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[23:07:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[23:07:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[23:07:55] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
+[23:07:55] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:07:55] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
+[23:07:55] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:07:55] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:07:55] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrparmory:recipe_vanilla_arrows
+com.google.gson.JsonSyntaxException: Unknown item 'srparasites:strange_bone'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:204) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$getIngredient$0(CraftingHelper.java:152) ~[CraftingHelper.class:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:1.8.0_452]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:150) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$14(CraftingHelper.java:481) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:723) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:833) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:688) ~[CraftingHelper.class:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1259) [?:1.8.0_452]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:633) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_452]
+[23:07:55] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrparmory:recipe_capsule_fule_eight
+com.google.gson.JsonSyntaxException: Unknown item 'nocubessrparmory:capsuleempty'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:204) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$14(CraftingHelper.java:481) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:723) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:833) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:688) ~[CraftingHelper.class:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1259) [?:1.8.0_452]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:633) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_452]
+[23:07:55] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrparmory:recipe_capsule_fuel_two
+com.google.gson.JsonSyntaxException: Unknown item 'nocubessrparmory:capsuleempty'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:204) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$14(CraftingHelper.java:481) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:723) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:833) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:688) ~[CraftingHelper.class:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1259) [?:1.8.0_452]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:633) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_452]
+[23:07:55] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrparmory:recipe_capsule_fuel_sixteen
+com.google.gson.JsonSyntaxException: Unknown item 'nocubessrparmory:capsuleempty'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:204) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$14(CraftingHelper.java:481) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:723) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:833) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:688) ~[CraftingHelper.class:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1259) [?:1.8.0_452]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:633) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_452]
+[23:07:55] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrparmory:recipe_capsule_fuel_four
+com.google.gson.JsonSyntaxException: Unknown item 'nocubessrparmory:capsuleempty'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:204) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$14(CraftingHelper.java:481) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:723) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:833) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:688) ~[CraftingHelper.class:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1259) [?:1.8.0_452]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:633) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_452]
+[23:07:55] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrparmory:recipe_capsule_empty
+com.google.gson.JsonSyntaxException: Unknown item 'nocubessrparmory:capsuleempty'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:214) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$14(CraftingHelper.java:523) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:723) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:833) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:688) ~[CraftingHelper.class:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1259) [?:1.8.0_452]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:633) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_452]
+[23:07:55] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrpsurvival:recipe_parasitic_bone_block
+com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pattern: [2, 5, 6, 7, 8]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$14(CraftingHelper.java:521) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:723) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:833) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:688) ~[CraftingHelper.class:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1259) [?:1.8.0_452]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:633) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_452]
+[23:07:55] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `nether_brick_fence`, expected `futuremc`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:55] [Server thread/INFO] [Spartan Shields]: Recipes added!
+[23:07:55] [Server thread/INFO] [Spartan Weaponry]: Registering recipes for Tipped Bolts!
+[23:07:55] [Server thread/INFO] [Spartan Weaponry]: Recipes added!
+[23:07:55] [Server thread/INFO] [FML]: Applying holder lookups
+[23:07:55] [Server thread/INFO] [FML]: Holder lookups applied
+[23:07:55] [Server thread/INFO] [STDOUT]: [com.mrcrayfish.apexguns.util.ConfigResolver:ConfigRecipe:20]: [2xitem.sulphur@0, 8xitem.ironNugget@0, 2xitem.dyePowder@14]
+[23:07:55] [Server thread/INFO] [STDOUT]: [com.mrcrayfish.apexguns.util.ConfigResolver:ConfigRecipe:20]: [2xitem.sulphur@0, 8xitem.ironNugget@0, 2xitem.dyePowder@6]
+[23:07:55] [Server thread/INFO] [STDOUT]: [com.mrcrayfish.apexguns.util.ConfigResolver:ConfigRecipe:20]: [2xitem.sulphur@0, 4xitem.ingotIron@0, 6xtile.obsidian@0]
+[23:07:55] [Server thread/INFO] [STDOUT]: [com.mrcrayfish.apexguns.util.ConfigResolver:ConfigRecipe:20]: [64xitem.ingotIron@0, 16xtile.obsidian@0, 8xitem.dyePowder@7, 8xitem.dyePowder@14]
+[23:07:55] [Server thread/INFO] [STDOUT]: [com.mrcrayfish.apexguns.util.ConfigResolver:ConfigRecipe:20]: [32xitem.ingotIron@0, 8xitem.dyePowder@7, 8xitem.dyePowder@14]
+[23:07:55] [Server thread/INFO] [STDOUT]: [com.mrcrayfish.apexguns.util.ConfigResolver:ConfigRecipe:20]: [32xitem.ingotIron@0, 8xitem.dyePowder@8, 8xitem.dyePowder@14]
+[23:07:55] [Server thread/INFO] [STDOUT]: [com.mrcrayfish.apexguns.util.ConfigResolver:ConfigRecipe:20]: [32xitem.ingotIron@0, 8xitem.dyePowder@12, 8xitem.dyePowder@7]
+[23:07:55] [Server thread/INFO] [STDOUT]: [com.mrcrayfish.apexguns.util.ConfigResolver:ConfigRecipe:20]: [32xitem.ingotIron@0, 8xitem.dyePowder@7, 8xitem.dyePowder@10]
+[23:07:55] [Server thread/INFO] [enchantedgoldenapplecrafting]: DIRT BLOCK >> minecraft:dirt
+[23:07:55] [Server thread/INFO] [enchantedgoldenapplecrafting]: Minecraft Wiki. "Golden Apple." Minecraft Wiki, Gamepedia, 24 Jan. 2019, minecraft.gamepedia.com/Golden_Apple.
+[23:07:55] [Server thread/INFO] [examplemod]: DIRT BLOCK >> minecraft:dirt
+[23:07:55] [Server thread/INFO] [foamfix]: Deduplicated 202 property sets.
+[23:07:55] [Server thread/INFO] [foamfix]: Weakening LaunchWrapper resource cache...
+[23:07:56] [iChunUtil Online Resource Thread/WARN] [iChunUtil]: Error retrieving mods versions list.
+[23:07:56] [iChunUtil Online Resource Thread/INFO] [STDERR]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:77]: java.io.FileNotFoundException: https://raw.githubusercontent.com/iChun/iChunUtil/master/src/main/resources/assets/ichunutil/mod/versions.json
+[23:07:56] [iChunUtil Online Resource Thread/INFO] [STDERR]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:77]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1913)
+[23:07:56] [iChunUtil Online Resource Thread/INFO] [STDERR]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:77]: 	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:92)
+[23:07:56] [iChunUtil Online Resource Thread/INFO] [STDERR]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:77]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1507)
+[23:07:56] [iChunUtil Online Resource Thread/INFO] [STDERR]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:77]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1505)
+[23:07:56] [iChunUtil Online Resource Thread/INFO] [STDERR]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:77]: 	at java.security.AccessController.doPrivileged(Native Method)
+[23:07:56] [iChunUtil Online Resource Thread/INFO] [STDERR]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:77]: 	at java.security.AccessController.doPrivilegedWithCombiner(AccessController.java:784)
+[23:07:56] [iChunUtil Online Resource Thread/INFO] [STDERR]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:77]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1504)
+[23:07:56] [iChunUtil Online Resource Thread/INFO] [STDERR]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:77]: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:268)
+[23:07:56] [iChunUtil Online Resource Thread/INFO] [STDERR]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:77]: 	at java.net.URL.openStream(URL.java:1093)
+[23:07:56] [iChunUtil Online Resource Thread/INFO] [STDERR]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:77]: 	at me.ichun.mods.ichunutil.common.thread.ThreadGetResources.run(ThreadGetResources.java:67)
+[23:07:56] [Server thread/INFO] [Spartan Weaponry]: Registering OreDictionary entries
+[23:07:56] [Server thread/INFO] [Spartan Weaponry]: Attempting to add new advancement triggers...
+[23:07:56] [Server thread/INFO] [Spartan Weaponry]: New advancement triggers added successfully!
+[23:07:56] [Server thread/INFO] [FML]: Injecting itemstacks
+[23:07:56] [Server thread/INFO] [FML]: Itemstack injection complete
+[23:07:56] [Server thread/INFO] [iChunUtil]: =============================================================
+[23:07:56] [Server thread/INFO] [iChunUtil]: By using iChunUtil you therefore agree to the EULA of the mod. It may be found in the jar file of the mod. The latest version will be available on iChun's website or on GitHub.
+[23:07:56] [Server thread/INFO] [iChunUtil]: You can disable this console message by going to the iChunUtil config and setting the "eulaAcknowledged" config to "true" (no quotes).
+[23:07:56] [Server thread/INFO] [iChunUtil]: =============================================================
+[23:07:56] [Server thread/WARN] [openmodularturrets]: Tried to add duplicate mob to mob list: ArmorStand
+[23:07:56] [Server thread/INFO] [placebo]: Beginning replacement of all shapeless recipes...
+[23:07:56] [Server thread/INFO] [placebo]: Expect log spam from FML!
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `yellow_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `yellow_dye_from_sunflower`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `yellow_dye_from_dandelion`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `yellow_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `yellow_bed_from_white_bed`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `writable_book`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `white_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `trapped_chest`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `red_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `red_dye_from_tulip`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `red_dye_from_rose_bush`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `red_dye_from_poppy`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `red_dye_from_beetroot`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `red_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `red_bed_from_white_bed`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `purple_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `purple_dye`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `purple_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `purple_bed_from_white_bed`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pumpkin_pie`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pink_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pink_dye_from_red_bonemeal`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pink_dye_from_pink_tulip`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pink_dye_from_peony`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pink_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pink_bed_from_white_bed`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `orange_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `orange_dye_from_red_yellow`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `orange_dye_from_orange_tulip`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `orange_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `orange_bed_from_white_bed`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `mushroom_stew`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `mossy_stonebrick`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `mossy_cobblestone`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `magma_cream`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `magenta_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `magenta_dye_from_purple_and_pink`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `magenta_dye_from_lilac`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `magenta_dye_from_lapis_red_pink`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `magenta_dye_from_lapis_ink_bonemeal`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `magenta_dye_from_allium`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `magenta_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `magenta_bed_from_white_bed`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `lime_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `lime_dye`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `lime_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `lime_bed_from_white_bed`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `light_gray_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `light_gray_dye_from_white_tulip`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `light_gray_dye_from_oxeye_daisy`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `light_gray_dye_from_ink_bonemeal`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `light_gray_dye_from_gray_bonemeal`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `light_gray_dye_from_azure_bluet`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `light_gray_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `light_gray_bed_from_white_bed`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `light_blue_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `light_blue_dye_from_lapis_bonemeal`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `light_blue_dye_from_blue_orchid`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `light_blue_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `light_blue_bed_from_white_bed`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `green_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `green_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `green_bed_from_white_bed`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gray_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gray_dye`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gray_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gray_bed_from_white_bed`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `granite`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `flint_and_steel`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `fire_charge`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `fermented_spider_eye`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ender_eye`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cyan_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cyan_dye`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cyan_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cyan_bed_from_white_bed`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `brown_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `brown_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `brown_bed_from_white_bed`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `book`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `bone_meal_from_bone`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `bone_meal_from_block`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `blue_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `blue_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `blue_bed_from_white_bed`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `blaze_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `black_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `black_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `black_bed_from_white_bed`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `andesite`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `securitycraft` for name `universal_owner_changer`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `securitycraft` for name `stone_mine`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `securitycraft` for name `secret_sign`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `securitycraft` for name `sc_manual`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `securitycraft` for name `scanner_trapdoor`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `securitycraft` for name `scanner_door_item`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `securitycraft` for name `sand_mine`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `securitycraft` for name `reinforced_yellow_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `securitycraft` for name `reinforced_spruce_planks`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `securitycraft` for name `reinforced_red_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `securitycraft` for name `reinforced_purple_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `securitycraft` for name `reinforced_pink_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `securitycraft` for name `reinforced_orange_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `securitycraft` for name `reinforced_oak_planks`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `securitycraft` for name `reinforced_mossy_stone_bricks`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `securitycraft` for name `reinforced_mossy_cobblestone`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `securitycraft` for name `reinforced_magenta_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `securitycraft` for name `reinforced_lime_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `securitycraft` for name `reinforced_light_gray_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `securitycraft` for name `reinforced_light_blue_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `securitycraft` for name `reinforced_jungle_planks`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `securitycraft` for name `reinforced_green_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `securitycraft` for name `reinforced_gray_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `securitycraft` for name `reinforced_granite`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `securitycraft` for name `reinforced_dark_oak_planks`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `securitycraft` for name `reinforced_cyan_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `securitycraft` for name `reinforced_crystal_quartz`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `securitycraft` for name `reinforced_brown_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `securitycraft` for name `reinforced_blue_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `securitycraft` for name `reinforced_black_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `securitycraft` for name `reinforced_birch_planks`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `securitycraft` for name `reinforced_andesite_with_vanilla_diorite`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `securitycraft` for name `reinforced_andesite_with_vanilla_cobblestone`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `securitycraft` for name `reinforced_andesite`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `securitycraft` for name `reinforced_acacia_planks`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `securitycraft` for name `redstone_ore_mine`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `securitycraft` for name `nether_quartz_ore_mine`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `securitycraft` for name `netherrack_mine`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `securitycraft` for name `lapis_lazuli_ore_mine`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `securitycraft` for name `keypad_door_item`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `securitycraft` for name `keycard_lv5_reset`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `securitycraft` for name `keycard_lv4_reset`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `securitycraft` for name `keycard_lv3_reset`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `securitycraft` for name `keycard_lv2_reset`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `securitycraft` for name `keycard_lv1_reset`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `securitycraft` for name `iron_ore_mine`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `securitycraft` for name `gravel_mine`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `securitycraft` for name `gold_ore_mine`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `securitycraft` for name `furnace_mine`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `securitycraft` for name `end_stone_mine`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `securitycraft` for name `emerald_ore_mine`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `securitycraft` for name `dirt_mine`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `securitycraft` for name `diamond_mine`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `securitycraft` for name `cobblestone_mine`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `securitycraft` for name `coal_ore_mine`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `securitycraft` for name `block_pocket_wall`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `futuremc` for name `wood/planks_from_stripped_spruce_log`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `futuremc` for name `wood/planks_from_stripped_oak_log`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `futuremc` for name `wood/planks_from_stripped_jungle_log`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `futuremc` for name `wood/planks_from_stripped_dark_oak_log`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `futuremc` for name `wood/planks_from_stripped_birch_log`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `futuremc` for name `wood/planks_from_stripped_acacia_log`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `futuremc` for name `else/sugar_from_honey_bottle`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `futuremc` for name `else/netherite_ingot_from_block`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `futuremc` for name `dye/white_dye_from_lily_of_the_valley`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `futuremc` for name `dye/white_dye_from_bonemeal`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `futuremc` for name `dye/brown_dye_from_cocoa_beans`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `futuremc` for name `dye/blue_dye_from_lapis_lazuli`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `futuremc` for name `dye/blue_dye_from_cornflower`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `futuremc` for name `dye/black_dye_from_wither_rose`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `futuremc` for name `dye/black_dye_from_ink_sac`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `gunpowder` for name `gunpowder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `nocubessrparmory` for name `recipe_rupter_bomb`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `nocubessrpnests` for name `recipeorganicsamplesmelt`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `nocubessrpsurvival` for name `recipe_vertebra_soup`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `nocubessrpsurvival` for name `recipe_toxic_stew`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `nocubessrpsurvival` for name `recipe_roasted_lumps`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `nocubessrpsurvival` for name `recipe_reeking_ribs`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `nocubessrpsurvival` for name `recipe_parasitic_stone_brick_mossy`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `nocubessrpsurvival` for name `recipe_moldered_pie`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `nocubessrpsurvival` for name `recipe_infested_stone_brick_mossy`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `nocubessrpsurvival` for name `recipe_cooked_tendons`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `nocubessrpsurvival` for name `recipe_cooked_parasite_heart`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `nocubessrpsurvival` for name `recipe_cooked_brain`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `nocubessrpsurvival` for name `recipe_assimilated_soup`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `overlast` for name `melon_ice`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `overlast` for name `drinking_bottle`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `overlast` for name `craft_ice_sucker`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `overlast` for name `chocolate_smoothie`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `overlast` for name `bowl_herbal`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `overlast` for name `blockpurifier2`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `scalinghealth` for name `heart_dust`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `spartanweaponry` for name `handle_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `spartanweaponry` for name `handle_leather`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `spartanweaponry` for name `bolt_spectral`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `spartanweaponry` for name `arrow_explosive`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `tombstone` for name `white_marble`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `tombstone` for name `dark_marble`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `tombstone` for name `bone_needle`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `eplus` for name `shapeless_upgrade`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `futuremc` for name `suspicious_stew_red_flower`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `futuremc` for name `suspicious_stew_cornflower`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `futuremc` for name `suspicious_stew_lily_of_the_valley`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `futuremc` for name `suspicious_stew_wither_rose`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `futuremc` for name `suspicious_stew_yellow_flower`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `futuremc` for name `netherite_ingot`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `charm` for name `gunpowder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `charm` for name `ender_pearl`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `charm` for name `rotten_flesh`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `charm` for name `moonstone_1`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `charm` for name `moonstone_2`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `charm` for name `moonstone_3`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `charm` for name `moonstone_4`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `charm` for name `moonstone_5`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `charm` for name `moonstone_6`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `charm` for name `moonstone_7`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `charm` for name `moonstone_8`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `charm` for name `moonstone_9`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `charm` for name `moonstone_10`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `charm` for name `moonstone_11`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `charm` for name `moonstone_12`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `charm` for name `moonstone_13`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `charm` for name `moonstone_14`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `charm` for name `moonstone_15`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `charm` for name `moonstone_16`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `charm` for name `moonstone_17`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `coal`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `iron_ingot`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `gold_ingot`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `redstone`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `dye`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `diamond`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `emerald`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `elematilius`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `teleporter`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `water_guard`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `wood_pestle`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `stone_pestle`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `iron_pestle`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `gold_pestle`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `diamond_pestle`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `obsidian_pestle`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `double_plant`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `double_plant_1`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `wood_multitool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `iron_multitool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `gold_multitool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `diamond_multitool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `obsidian_multitool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `renforced_multitool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `apricot_pie`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `banana_pie`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `cherry_pie`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `kiwi_pie`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `lemon_pie`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `orange_pie`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `pear_pie`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `flour`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `flour_1`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `flour_2`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `flour_3`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `flour_4`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `flour_5`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `flour_6`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `flour_7`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `clay_ball`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `glowstone_dust`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `quartz`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `prismarine_shard`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `prismarine_crystals`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `paper`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `sugar`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `coal_1`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `flint`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `snowball`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `firework_charge`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `netherbrick`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `glass_bottle`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `totem_of_undying`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `lead`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `name_tag`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `experience_bottle`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `ender_pearl`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `bone`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `spider_eye`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `gunpowder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `blaze_rod`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `ghast_tear`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `magma_cream`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `shulker_shell`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `slime_ball`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `nether_star`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `string`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `rotten_flesh`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `apple`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `golden_apple`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `bread`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `egg`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `fish`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `fish_1`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `cookie`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `chorus_fruit`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `porkchop`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `beef`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `fish_2`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `fish_3`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `rabbit`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `mutton`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `chicken`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `dye_1`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `dye_2`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `dye_3`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `dye_4`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `dye_5`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `dye_6`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `dye_7`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `dye_8`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `dye_9`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `dye_10`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `dye_11`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `dye_12`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `dye_13`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `dye_14`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `vine`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `waterlily`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `double_plant_2`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `double_plant_3`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `deadbush`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `tallgrass`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `tallgrass_1`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `sapling`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `sapling_1`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `sapling_2`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `sapling_3`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `sapling_4`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `sapling_5`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `leather`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `feather`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `rabbit_hide`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `rabbit_foot`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `aluminium_ingot`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `brass_ingot`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `bronze_ingot`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `chrome_ingot`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `copper_ingot`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `electrum_ingot`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `invar_ingot`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `iridium_ingot`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `lead_ingot`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `nickel_ingot`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `platinium_ingot`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `silveringot_ingot`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `steel_ingot`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `tin_ingot`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `titanium_ingot`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `tungsten_ingot`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `zinc_ingot`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `ingot_manasteel`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `ingot_terrasteel`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `mana_diamond`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `mana_pearl`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `ingot_elementium`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `dragonstone`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `gearwood`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `gearstone`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `geariron`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `geargold`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `geardiamond`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `ingot_yellorium`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `ingot_blutonium`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `ingot_cyanite`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `ingot_graphite`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `ingot_ludicrite`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `ingot_enderium`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `ingot_lumium`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `ingot_signalum`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `ingot_constantan`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `ingot_mithril`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `ingot_uranium`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `gem_apatite`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `silicon`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `ingot_draconium`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `ingot_draconium_awakened`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `ingot_osmium`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `croparia` for name `gaia_spirit`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[23:07:56] [Server thread/INFO] [placebo]: Successfully replaced 375 recipes with fast recipes.
+[23:07:56] [Server thread/INFO] [dsurround]: Initializing registry [Dimension Registry]
+[23:07:56] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 68 mods
+[23:07:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[23:07:57] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[23:07:57] [Server thread/INFO] [FML]: Applying holder lookups
+[23:07:57] [Server thread/INFO] [FML]: Holder lookups applied
+[23:07:57] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@44f4a4e9)
+[23:07:57] [Server thread/ERROR] [net.minecraft.advancements.AdvancementManager]: Parsing error loading built-in advancement minecraft:recipes/redstone/trapdoor
+com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:171) ~[l$a.class:?]
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:147) ~[l$a.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[Gson.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[Gson.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[TreeTypeAdapter$GsonContextImpl.class:?]
+	at net.minecraft.util.JsonUtils.func_188179_a(SourceFile:439) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.func_188177_a(SourceFile:455) ~[rc.class:?]
+	at net.minecraft.advancements.Advancement$Builder.func_192059_a(SourceFile:203) ~[i$a.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:50) ~[ns$1.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:46) ~[ns$1.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at net.minecraft.util.JsonUtils.func_188173_a(SourceFile:492) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.func_193839_a(SourceFile:532) ~[rc.class:?]
+	at net.minecraft.advancements.AdvancementManager.func_192777_a(AdvancementManager.java:184) [ns.class:?]
+	at net.minecraft.advancements.AdvancementManager.func_192779_a(AdvancementManager.java:68) [ns.class:?]
+	at net.minecraft.advancements.AdvancementManager.<init>(AdvancementManager.java:60) [ns.class:?]
+	at net.minecraft.world.WorldServer.func_175643_b(WorldServer.java:156) [oo.class:?]
+	at net.minecraft.server.MinecraftServer.func_71247_a(MinecraftServer.java:298) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:270) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_452]
+[23:07:58] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 717 advancements
+[23:07:58] [Server thread/INFO] [dsurround]: Attaching capabilities to world [overworld] (SERVER)
+[23:07:58] [Server thread/INFO] [dsurround]: DimensionInfo{id=0, name=overworld, seaLevel=63, cloudHeight=128, skyHeight=256, haze=true, aurora=true, weather=true, fog=true}
+[23:07:58] [Server thread/INFO] [Meson]: true
+[23:07:58] [Server thread/INFO] [dsurround]: Creating STANDARD weather generator for dimension [overworld]
+[23:07:58] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@44f4a4e9)
+[23:07:58] [Server thread/INFO] [dsurround]: Attaching capabilities to world [the_nether] (SERVER)
+[23:07:58] [Server thread/INFO] [dsurround]: DimensionInfo{id=-1, name=the_nether, seaLevel=0, cloudHeight=128, skyHeight=128, haze=false, aurora=false, weather=true, fog=true}
+[23:07:58] [Server thread/INFO] [dsurround]: Creating NETHER weather generator for dimension [the_nether]
+[23:07:58] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@44f4a4e9)
+[23:07:58] [Server thread/INFO] [dsurround]: Attaching capabilities to world [the_end] (SERVER)
+[23:07:58] [Server thread/INFO] [dsurround]: DimensionInfo{id=1, name=the_end, seaLevel=0, cloudHeight=128, skyHeight=256, haze=false, aurora=false, weather=false, fog=false}
+[23:07:58] [Server thread/INFO] [dsurround]: Creating NULL weather generator for dimension [the_end]
+[23:07:58] [Server thread/INFO] [FML]: Loading dimension 5 (world) (net.minecraft.server.dedicated.DedicatedServer@44f4a4e9)
+[23:07:58] [Server thread/INFO] [dsurround]: Attaching capabilities to world [waterdim] (SERVER)
+[23:07:58] [Server thread/INFO] [dsurround]: DimensionInfo{id=5, name=waterdim, seaLevel=63, cloudHeight=256, skyHeight=256, haze=false, aurora=false, weather=false, fog=false}
+[23:07:58] [Server thread/INFO] [dsurround]: Creating NULL weather generator for dimension [waterdim]
+[23:07:58] [Server thread/INFO] [FML]: Loading dimension 6 (world) (net.minecraft.server.dedicated.DedicatedServer@44f4a4e9)
+[23:07:58] [Server thread/INFO] [dsurround]: Attaching capabilities to world [firedim] (SERVER)
+[23:07:58] [Server thread/INFO] [dsurround]: DimensionInfo{id=6, name=firedim, seaLevel=63, cloudHeight=256, skyHeight=256, haze=false, aurora=false, weather=false, fog=false}
+[23:07:58] [Server thread/INFO] [dsurround]: Creating NULL weather generator for dimension [firedim]
+[23:07:58] [Server thread/INFO] [FML]: Loading dimension 7 (world) (net.minecraft.server.dedicated.DedicatedServer@44f4a4e9)
+[23:07:58] [Server thread/INFO] [dsurround]: Attaching capabilities to world [earthdim] (SERVER)
+[23:07:58] [Server thread/INFO] [dsurround]: DimensionInfo{id=7, name=earthdim, seaLevel=63, cloudHeight=256, skyHeight=256, haze=false, aurora=false, weather=false, fog=false}
+[23:07:58] [Server thread/INFO] [dsurround]: Creating NULL weather generator for dimension [earthdim]
+[23:07:58] [Server thread/INFO] [FML]: Loading dimension 8 (world) (net.minecraft.server.dedicated.DedicatedServer@44f4a4e9)
+[23:07:58] [Server thread/INFO] [dsurround]: Attaching capabilities to world [airdim] (SERVER)
+[23:07:58] [Server thread/INFO] [dsurround]: DimensionInfo{id=8, name=airdim, seaLevel=63, cloudHeight=256, skyHeight=256, haze=false, aurora=false, weather=false, fog=false}
+[23:07:58] [Server thread/INFO] [dsurround]: Creating NULL weather generator for dimension [airdim]
+[23:07:58] [Server thread/INFO] [FML]: Loading dimension 111 (world) (net.minecraft.server.dedicated.DedicatedServer@44f4a4e9)
+[23:07:58] [Server thread/INFO] [dsurround]: Attaching capabilities to world [lostcities] (SERVER)
+[23:07:58] [Server thread/INFO] [dsurround]: DimensionInfo{id=111, name=lostcities, seaLevel=63, cloudHeight=256, skyHeight=256, haze=false, aurora=true, weather=true, fog=true}
+[23:07:58] [Server thread/INFO] [dsurround]: Creating STANDARD weather generator for dimension [lostcities]
+[23:07:58] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[23:07:58] [Server thread/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.world.chunk.BlockStateContainer.func_186018_a
+[23:07:59] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 66%
+[23:07:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (2.708s)! For help, type "help" or "?"
+[23:07:59] [Server thread/INFO] [OverLast]: Stored 68 biome temperatures.
+[23:07:59] [Server thread/INFO] [OverLast]: Loaded world data. Current season is AUTUMN and we are 0 days into this season.
+[23:08:00] [Server thread/INFO] [FML]: Unloading dimension -1
+[23:08:00] [Server thread/INFO] [FML]: Unloading dimension 1
+[23:08:00] [Server thread/INFO] [FML]: Unloading dimension 5
+[23:08:00] [Server thread/INFO] [FML]: Unloading dimension 6
+[23:08:00] [Server thread/INFO] [FML]: Unloading dimension 7
+[23:08:00] [Server thread/INFO] [FML]: Unloading dimension 8
+[23:08:00] [Server thread/INFO] [FML]: Unloading dimension 111
+[23:08:14] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[23:08:14] [Netty Epoll Server IO #2/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraftforge.fml.common.network.ByteBufUtils.writeUTF8String
+[23:08:14] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 72 mods : ctgui@1.0.0,gokistats@1.2.10,mixinbooter@9.4,cgm@0.15.3,scapeandrunvaccine@1.0.0,creativecoredummy@1.0.0,fantasticlib@1.12.2.047,jei@4.16.1.301,futuremc@0.2.6,mcp@9.42,nocubessrpnests@3.0.0,clumps@3.1.2,nolives@1.5.0,journeymap@1.12.2-5.7.1p2,placebo@1.6.0,hermitsarsenal@V1,travelersbackpack@1.0.35,bookshelf@2.3.590,forgelin@1.8.4,foamfixcore@7.7.4,omlib@3.1.5-256,gunpowder@1.0.0,walljump@1.3.2,ichunutil@7.2.2,tlauncher_custom_cape_skin@1.4,carryon@1.12.3,crafttweaker@4.1.20,nocubessrpsurvival@3.0.0,forge@14.23.5.2860,openmodularturrets@3.1.14-382,orelib@3.6.0.1,dsurround@3.6.1.0,eplus@5.0.176,ironchest@1.12.2-7.0.67.844,minecraft@1.12.2,nocubessrparmory@3.0.0,nocubesrptweaks@V5.1,ambientsounds@3.0,crafttweakerjei@2.0.3,croparia@2.4,randomenchantments@@VERSION@,enchantedgoldenapplecrafting@1.0.1,silentlib@3.0.13,torohud@1.12.2-5,creativecore@1.10.0,mcwfences@1.0.0,spartanshields@1.5.5,aquaacrobatics@1.15.4,editmobdrops@1.4.3,fastbench@1.7.4,securitycraft@v1.9.11,futurefireproof@1.12.2-1.0.0,lostcities@2.0.22,FML@8.0.99.99,obfuscate@0.4.2,tombstone@4.7.3,apexguns@0.1.2,spartannetherite@1.12.2-1.2.0,ompd@3.1.1-76,srparasites@1.9.19,fastfurnace@1.3.1,spartanweaponry@1.6.0,foamfix@@VERSION@,charm@1.4,fastleafdecay@v14,scalinghealth@1.3.37,playerrevive@1.0,swparasites@v3.1,supertools@1.12.2-null,overlast@0.2.9,essential@1.0.0,examplemod@1.0
+[23:08:14] [Netty Epoll Server IO #2/INFO] [journeymap]: CLIENT
+[23:08:15] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[23:08:15] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: apael213[/127.61.163.198:35413] logged in with entity id 349 at (62.5, 64.0, -45.5)
+[23:08:15] [Server thread/INFO] [dsurround]: Player [apael213] connected with Dynamic Surroundings 3.6.1.0
+[23:08:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: apael213 joined the game
+[23:09:26] [Netty Epoll Server IO #4/INFO] [FML]: Client protocol version 2
+[23:09:26] [Netty Epoll Server IO #4/INFO] [FML]: Client attempting to join with 71 mods : ctgui@1.0.0,gokistats@1.2.10,mixinbooter@9.4,cgm@0.15.3,scapeandrunvaccine@1.0.0,creativecoredummy@1.0.0,fantasticlib@1.12.2.047,jei@4.16.1.301,futuremc@0.2.6,mcp@9.42,nocubessrpnests@3.0.0,clumps@3.1.2,nolives@1.5.0,journeymap@1.12.2-5.7.1p2,placebo@1.6.0,hermitsarsenal@V1,travelersbackpack@1.0.35,bookshelf@2.3.590,forgelin@1.8.4,foamfixcore@7.7.4,omlib@3.1.5-256,gunpowder@1.0.0,walljump@1.3.2,ichunutil@7.2.2,carryon@1.12.3,crafttweaker@4.1.20,nocubessrpsurvival@3.0.0,forge@14.23.5.2859,openmodularturrets@3.1.14-382,orelib@3.6.0.1,dsurround@3.6.1.0,eplus@5.0.176,ironchest@1.12.2-7.0.67.844,minecraft@1.12.2,nocubessrparmory@3.0.0,nocubesrptweaks@V5.1,ambientsounds@3.0,crafttweakerjei@2.0.3,croparia@2.4,randomenchantments@@VERSION@,enchantedgoldenapplecrafting@1.0.1,silentlib@3.0.13,torohud@1.12.2-5,creativecore@1.10.0,mcwfences@1.0.0,spartanshields@1.5.5,aquaacrobatics@1.15.4,editmobdrops@1.4.3,fastbench@1.7.4,securitycraft@v1.9.11,futurefireproof@1.12.2-1.0.0,lostcities@2.0.22,FML@8.0.99.99,obfuscate@0.4.2,tombstone@4.7.3,apexguns@0.1.2,spartannetherite@1.12.2-1.2.0,ompd@3.1.1-76,srparasites@1.9.19,fastfurnace@1.3.1,spartanweaponry@1.6.0,foamfix@@VERSION@,charm@1.4,fastleafdecay@v14,scalinghealth@1.3.37,playerrevive@1.0,swparasites@v3.1,supertools@1.12.2-null,overlast@0.2.9,essential@1.0.0,examplemod@1.0
+[23:09:26] [Netty Epoll Server IO #4/INFO] [journeymap]: CLIENT
+[23:09:29] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[23:09:29] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: El_Bicho_129[/127.127.217.130:35135] logged in with entity id 8756 at (78.17356262646273, 63.0, -49.995665243871755)
+[23:09:29] [Server thread/INFO] [dsurround]: Player [El_Bicho_129] connected with Dynamic Surroundings 3.6.1.0
+[23:09:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Bicho_129 joined the game
+[23:09:44] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: El_Bicho_129 lost connection: Timed out
+[23:09:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Bicho_129 left the game
+[23:09:52] [Server thread/INFO] [Meson ASM]: Transforming ISpecialArmor
+[23:09:52] [Server thread/INFO] [Meson ASM]: Applying Transformation to method (Names [applyArmor, applyArmor, ] Descriptor (Lnet/minecraft/entity/EntityLivingBase;Lnet/minecraft/util/NonNullList;Lnet/minecraft/util/DamageSource;D)F / (Lvp;Lfi;Lur;D)F)
+[23:09:52] [Server thread/INFO] [Meson ASM]: Located method, patching...
+[23:09:52] [Server thread/INFO] [Meson ASM]: Located target ALOAD 1
+[23:09:52] [Server thread/INFO] [Meson ASM]: Patch result: true
+[23:10:08] [Netty Epoll Server IO #6/INFO] [FML]: Client protocol version 2
+[23:10:08] [Netty Epoll Server IO #6/INFO] [FML]: Client attempting to join with 71 mods : ctgui@1.0.0,gokistats@1.2.10,mixinbooter@9.4,cgm@0.15.3,scapeandrunvaccine@1.0.0,creativecoredummy@1.0.0,fantasticlib@1.12.2.047,jei@4.16.1.301,futuremc@0.2.6,mcp@9.42,nocubessrpnests@3.0.0,clumps@3.1.2,nolives@1.5.0,journeymap@1.12.2-5.7.1p2,placebo@1.6.0,hermitsarsenal@V1,travelersbackpack@1.0.35,bookshelf@2.3.590,forgelin@1.8.4,foamfixcore@7.7.4,omlib@3.1.5-256,gunpowder@1.0.0,walljump@1.3.2,ichunutil@7.2.2,carryon@1.12.3,crafttweaker@4.1.20,nocubessrpsurvival@3.0.0,forge@14.23.5.2859,openmodularturrets@3.1.14-382,orelib@3.6.0.1,dsurround@3.6.1.0,eplus@5.0.176,ironchest@1.12.2-7.0.67.844,minecraft@1.12.2,nocubessrparmory@3.0.0,nocubesrptweaks@V5.1,ambientsounds@3.0,crafttweakerjei@2.0.3,croparia@2.4,randomenchantments@@VERSION@,enchantedgoldenapplecrafting@1.0.1,silentlib@3.0.13,torohud@1.12.2-5,creativecore@1.10.0,mcwfences@1.0.0,spartanshields@1.5.5,aquaacrobatics@1.15.4,editmobdrops@1.4.3,fastbench@1.7.4,securitycraft@v1.9.11,futurefireproof@1.12.2-1.0.0,lostcities@2.0.22,FML@8.0.99.99,obfuscate@0.4.2,tombstone@4.7.3,apexguns@0.1.2,spartannetherite@1.12.2-1.2.0,ompd@3.1.1-76,srparasites@1.9.19,fastfurnace@1.3.1,spartanweaponry@1.6.0,foamfix@@VERSION@,charm@1.4,fastleafdecay@v14,scalinghealth@1.3.37,playerrevive@1.0,swparasites@v3.1,supertools@1.12.2-null,overlast@0.2.9,essential@1.0.0,examplemod@1.0
+[23:10:08] [Netty Epoll Server IO #6/INFO] [journeymap]: CLIENT
+[23:10:11] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[23:10:11] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: El_Bicho_129[/127.127.217.130:49083] logged in with entity id 14103 at (78.17356262646273, 63.0, -49.995665243871755)
+[23:10:11] [Server thread/INFO] [dsurround]: Player [El_Bicho_129] connected with Dynamic Surroundings 3.6.1.0
+[23:10:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Bicho_129 joined the game
+[23:11:09] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: apael213 lost connection: Disconnected
+[23:11:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: apael213 left the game
+[23:11:54] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: El_Bicho_129 lost connection: Disconnected
+[23:11:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Bicho_129 left the game
+[23:12:20] [Netty Epoll Server IO #6/INFO] [FML]: Client protocol version 2
+[23:12:20] [Netty Epoll Server IO #6/INFO] [FML]: Client attempting to join with 71 mods : ctgui@1.0.0,gokistats@1.2.10,mixinbooter@9.4,cgm@0.15.3,scapeandrunvaccine@1.0.0,creativecoredummy@1.0.0,fantasticlib@1.12.2.047,jei@4.16.1.301,futuremc@0.2.6,mcp@9.42,nocubessrpnests@3.0.0,clumps@3.1.2,nolives@1.5.0,journeymap@1.12.2-5.7.1p2,placebo@1.6.0,hermitsarsenal@V1,travelersbackpack@1.0.35,bookshelf@2.3.590,forgelin@1.8.4,foamfixcore@7.7.4,omlib@3.1.5-256,gunpowder@1.0.0,walljump@1.3.2,ichunutil@7.2.2,carryon@1.12.3,crafttweaker@4.1.20,nocubessrpsurvival@3.0.0,forge@14.23.5.2859,openmodularturrets@3.1.14-382,orelib@3.6.0.1,dsurround@3.6.1.0,eplus@5.0.176,ironchest@1.12.2-7.0.67.844,minecraft@1.12.2,nocubessrparmory@3.0.0,nocubesrptweaks@V5.1,ambientsounds@3.0,crafttweakerjei@2.0.3,croparia@2.4,randomenchantments@@VERSION@,enchantedgoldenapplecrafting@1.0.1,silentlib@3.0.13,torohud@1.12.2-5,creativecore@1.10.0,mcwfences@1.0.0,spartanshields@1.5.5,aquaacrobatics@1.15.4,editmobdrops@1.4.3,fastbench@1.7.4,securitycraft@v1.9.11,futurefireproof@1.12.2-1.0.0,lostcities@2.0.22,FML@8.0.99.99,obfuscate@0.4.2,tombstone@4.7.3,apexguns@0.1.2,spartannetherite@1.12.2-1.2.0,ompd@3.1.1-76,srparasites@1.9.19,fastfurnace@1.3.1,spartanweaponry@1.6.0,foamfix@@VERSION@,charm@1.4,fastleafdecay@v14,scalinghealth@1.3.37,playerrevive@1.0,swparasites@v3.1,supertools@1.12.2-null,overlast@0.2.9,essential@1.0.0,examplemod@1.0
+[23:12:20] [Netty Epoll Server IO #6/INFO] [journeymap]: CLIENT
+[23:12:21] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: apael213 lost connection: Disconnected
+[23:12:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: apael213 left the game
+[23:12:21] [Server thread/ERROR] [FML]: FMLIndexedMessageCodec exception caught
+java.lang.NullPointerException: null
+	at net.minecraftforge.fml.common.network.FMLOutboundHandler$OutboundTarget$4.selectNetworks(FMLOutboundHandler.java:143) ~[FMLOutboundHandler$OutboundTarget$4.class:?]
+	at net.minecraftforge.fml.common.network.FMLOutboundHandler.write(FMLOutboundHandler.java:378) ~[FMLOutboundHandler.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:738) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:730) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:816) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:723) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:111) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.handler.codec.MessageToMessageCodec.write(MessageToMessageCodec.java:116) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:738) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:801) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:814) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:794) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:831) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1032) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:296) ~[minecraft_server.1.12.2.jar:?]
+	at net.minecraftforge.fml.common.network.simpleimpl.SimpleNetworkWrapper.sendTo(SimpleNetworkWrapper.java:250) [SimpleNetworkWrapper.class:?]
+	at com.overlast.season.WorldSeason.onPlayerLogsOut(WorldSeason.java:264) [WorldSeason.class:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_726_WorldSeason_onPlayerLogsOut_PlayerLoggedOutEvent.invoke(.dynamic) [?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) [ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) [EventBus.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.firePlayerLoggedOut(FMLCommonHandler.java:580) [FMLCommonHandler.class:?]
+	at net.minecraft.server.management.PlayerList.func_72367_e(PlayerList.java:388) [pl.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147231_a(NetHandlerPlayServer.java:853) [pa.class:?]
+	at net.minecraft.network.NetworkManager.func_179293_l(NetworkManager.java:457) [gw.class:?]
+	at net.minecraft.network.NetworkSystem.func_151269_c(NetworkSystem.java:213) [oz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:790) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_452]
+[23:12:21] [Server thread/ERROR] [FML]: SimpleChannelHandlerWrapper exception
+java.lang.NullPointerException: null
+	at net.minecraftforge.fml.common.network.FMLOutboundHandler$OutboundTarget$4.selectNetworks(FMLOutboundHandler.java:143) ~[FMLOutboundHandler$OutboundTarget$4.class:?]
+	at net.minecraftforge.fml.common.network.FMLOutboundHandler.write(FMLOutboundHandler.java:378) ~[FMLOutboundHandler.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:738) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:730) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:816) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:723) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:111) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.handler.codec.MessageToMessageCodec.write(MessageToMessageCodec.java:116) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:738) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:801) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:814) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:794) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:831) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1032) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:296) ~[minecraft_server.1.12.2.jar:?]
+	at net.minecraftforge.fml.common.network.simpleimpl.SimpleNetworkWrapper.sendTo(SimpleNetworkWrapper.java:250) [SimpleNetworkWrapper.class:?]
+	at com.overlast.season.WorldSeason.onPlayerLogsOut(WorldSeason.java:264) [WorldSeason.class:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_726_WorldSeason_onPlayerLogsOut_PlayerLoggedOutEvent.invoke(.dynamic) [?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) [ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) [EventBus.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.firePlayerLoggedOut(FMLCommonHandler.java:580) [FMLCommonHandler.class:?]
+	at net.minecraft.server.management.PlayerList.func_72367_e(PlayerList.java:388) [pl.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147231_a(NetHandlerPlayServer.java:853) [pa.class:?]
+	at net.minecraft.network.NetworkManager.func_179293_l(NetworkManager.java:457) [gw.class:?]
+	at net.minecraft.network.NetworkSystem.func_151269_c(NetworkSystem.java:213) [oz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:790) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_452]
+[23:12:21] [Server thread/ERROR] [FML]: SimpleChannelHandlerWrapper exception
+java.lang.NullPointerException: null
+	at net.minecraftforge.fml.common.network.FMLOutboundHandler$OutboundTarget$4.selectNetworks(FMLOutboundHandler.java:143) ~[FMLOutboundHandler$OutboundTarget$4.class:?]
+	at net.minecraftforge.fml.common.network.FMLOutboundHandler.write(FMLOutboundHandler.java:378) ~[FMLOutboundHandler.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:738) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:730) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:816) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:723) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:111) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.handler.codec.MessageToMessageCodec.write(MessageToMessageCodec.java:116) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:738) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:801) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:814) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:794) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:831) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1032) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:296) ~[minecraft_server.1.12.2.jar:?]
+	at net.minecraftforge.fml.common.network.simpleimpl.SimpleNetworkWrapper.sendTo(SimpleNetworkWrapper.java:250) [SimpleNetworkWrapper.class:?]
+	at com.overlast.season.WorldSeason.onPlayerLogsOut(WorldSeason.java:264) [WorldSeason.class:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_726_WorldSeason_onPlayerLogsOut_PlayerLoggedOutEvent.invoke(.dynamic) [?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) [ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) [EventBus.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.firePlayerLoggedOut(FMLCommonHandler.java:580) [FMLCommonHandler.class:?]
+	at net.minecraft.server.management.PlayerList.func_72367_e(PlayerList.java:388) [pl.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147231_a(NetHandlerPlayServer.java:853) [pa.class:?]
+	at net.minecraft.network.NetworkManager.func_179293_l(NetworkManager.java:457) [gw.class:?]
+	at net.minecraft.network.NetworkSystem.func_151269_c(NetworkSystem.java:213) [oz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:790) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_452]
+[23:12:21] [Server thread/ERROR] [FML]: SimpleChannelHandlerWrapper exception
+java.lang.NullPointerException: null
+	at net.minecraftforge.fml.common.network.FMLOutboundHandler$OutboundTarget$4.selectNetworks(FMLOutboundHandler.java:143) ~[FMLOutboundHandler$OutboundTarget$4.class:?]
+	at net.minecraftforge.fml.common.network.FMLOutboundHandler.write(FMLOutboundHandler.java:378) ~[FMLOutboundHandler.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:738) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:730) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:816) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:723) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:111) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.handler.codec.MessageToMessageCodec.write(MessageToMessageCodec.java:116) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:738) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:801) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:814) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:794) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:831) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1032) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:296) ~[minecraft_server.1.12.2.jar:?]
+	at net.minecraftforge.fml.common.network.simpleimpl.SimpleNetworkWrapper.sendTo(SimpleNetworkWrapper.java:250) [SimpleNetworkWrapper.class:?]
+	at com.overlast.season.WorldSeason.onPlayerLogsOut(WorldSeason.java:264) [WorldSeason.class:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_726_WorldSeason_onPlayerLogsOut_PlayerLoggedOutEvent.invoke(.dynamic) [?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) [ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) [EventBus.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.firePlayerLoggedOut(FMLCommonHandler.java:580) [FMLCommonHandler.class:?]
+	at net.minecraft.server.management.PlayerList.func_72367_e(PlayerList.java:388) [pl.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147231_a(NetHandlerPlayServer.java:853) [pa.class:?]
+	at net.minecraft.network.NetworkManager.func_179293_l(NetworkManager.java:457) [gw.class:?]
+	at net.minecraft.network.NetworkSystem.func_151269_c(NetworkSystem.java:213) [oz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:790) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_452]
+[23:12:21] [Server thread/ERROR] [FML]: SimpleChannelHandlerWrapper exception
+java.lang.NullPointerException: null
+	at net.minecraftforge.fml.common.network.FMLOutboundHandler$OutboundTarget$4.selectNetworks(FMLOutboundHandler.java:143) ~[FMLOutboundHandler$OutboundTarget$4.class:?]
+	at net.minecraftforge.fml.common.network.FMLOutboundHandler.write(FMLOutboundHandler.java:378) ~[FMLOutboundHandler.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:738) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:730) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:816) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:723) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:111) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.handler.codec.MessageToMessageCodec.write(MessageToMessageCodec.java:116) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:738) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:801) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:814) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:794) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:831) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1032) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:296) ~[minecraft_server.1.12.2.jar:?]
+	at net.minecraftforge.fml.common.network.simpleimpl.SimpleNetworkWrapper.sendTo(SimpleNetworkWrapper.java:250) [SimpleNetworkWrapper.class:?]
+	at com.overlast.season.WorldSeason.onPlayerLogsOut(WorldSeason.java:264) [WorldSeason.class:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_726_WorldSeason_onPlayerLogsOut_PlayerLoggedOutEvent.invoke(.dynamic) [?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) [ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) [EventBus.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.firePlayerLoggedOut(FMLCommonHandler.java:580) [FMLCommonHandler.class:?]
+	at net.minecraft.server.management.PlayerList.func_72367_e(PlayerList.java:388) [pl.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147231_a(NetHandlerPlayServer.java:853) [pa.class:?]
+	at net.minecraft.network.NetworkManager.func_179293_l(NetworkManager.java:457) [gw.class:?]
+	at net.minecraft.network.NetworkSystem.func_151269_c(NetworkSystem.java:213) [oz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:790) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_452]
+[23:12:23] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[23:12:23] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: El_Bicho_129[/127.127.217.130:59631] logged in with entity id 28950 at (99.29904688039551, 63.0, -88.38740347407504)
+[23:12:23] [Server thread/INFO] [dsurround]: Player [El_Bicho_129] connected with Dynamic Surroundings 3.6.1.0
+[23:12:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Bicho_129 joined the game
+[23:12:32] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[23:12:32] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 72 mods : ctgui@1.0.0,gokistats@1.2.10,mixinbooter@9.4,cgm@0.15.3,scapeandrunvaccine@1.0.0,creativecoredummy@1.0.0,fantasticlib@1.12.2.047,jei@4.16.1.301,futuremc@0.2.6,mcp@9.42,nocubessrpnests@3.0.0,clumps@3.1.2,nolives@1.5.0,journeymap@1.12.2-5.7.1p2,placebo@1.6.0,hermitsarsenal@V1,travelersbackpack@1.0.35,bookshelf@2.3.590,forgelin@1.8.4,foamfixcore@7.7.4,omlib@3.1.5-256,gunpowder@1.0.0,walljump@1.3.2,ichunutil@7.2.2,tlauncher_custom_cape_skin@1.4,carryon@1.12.3,crafttweaker@4.1.20,nocubessrpsurvival@3.0.0,forge@14.23.5.2860,openmodularturrets@3.1.14-382,orelib@3.6.0.1,dsurround@3.6.1.0,eplus@5.0.176,ironchest@1.12.2-7.0.67.844,minecraft@1.12.2,nocubessrparmory@3.0.0,nocubesrptweaks@V5.1,ambientsounds@3.0,crafttweakerjei@2.0.3,croparia@2.4,randomenchantments@@VERSION@,enchantedgoldenapplecrafting@1.0.1,silentlib@3.0.13,torohud@1.12.2-5,creativecore@1.10.0,mcwfences@1.0.0,spartanshields@1.5.5,aquaacrobatics@1.15.4,editmobdrops@1.4.3,fastbench@1.7.4,securitycraft@v1.9.11,futurefireproof@1.12.2-1.0.0,lostcities@2.0.22,FML@8.0.99.99,obfuscate@0.4.2,tombstone@4.7.3,apexguns@0.1.2,spartannetherite@1.12.2-1.2.0,ompd@3.1.1-76,srparasites@1.9.19,fastfurnace@1.3.1,spartanweaponry@1.6.0,foamfix@@VERSION@,charm@1.4,fastleafdecay@v14,scalinghealth@1.3.37,playerrevive@1.0,swparasites@v3.1,supertools@1.12.2-null,overlast@0.2.9,essential@1.0.0,examplemod@1.0
+[23:12:32] [Netty Epoll Server IO #0/INFO] [journeymap]: CLIENT
+[23:12:33] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[23:12:33] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: apael213[/127.61.163.198:33769] logged in with entity id 30135 at (72.41834490056036, 63.0, -49.03857254538366)
+[23:12:33] [Server thread/INFO] [dsurround]: Player [apael213] connected with Dynamic Surroundings 3.6.1.0
+[23:12:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: apael213 joined the game
+[23:14:29] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: El_Bicho_129 lost connection: Disconnected
+[23:14:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Bicho_129 left the game
+[23:17:31] [Server thread/INFO] [OverLast]: Saving data to disk.
+[23:17:31] [Server thread/INFO] [OverLast]: Rain is on the way in 539 ticks.
+[23:17:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Good morning, Doom City! Today is a brand-new day. The current season is Fall, day 1.
+[23:17:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: howdy howdy Doom City, have you found some bugs on the ground? Don't worry about them threatening your food, because you may not need other food soon!
+[23:17:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: This is a special radio station for fall.
