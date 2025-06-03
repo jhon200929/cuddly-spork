@@ -1,0 +1,37 @@
+{
+  "tombstone:tutorial/root": {
+    "criteria": {
+      "auto": "2025-06-03 00:09:57 +0000"
+    },
+    "done": true
+  },
+  "nocubessrparmory:advsrparmoryroot": {
+    "criteria": {
+      "advsrparmoryroot": "2025-06-03 00:09:57 +0000"
+    },
+    "done": true
+  },
+  "nocubessrpnests:advsrpnestsaddonroot": {
+    "criteria": {
+      "advsrpnestsaddonroot": "2025-06-03 00:09:57 +0000"
+    },
+    "done": true
+  },
+  "nocubessrpsurvival:advparasitesurvivalroot": {
+    "criteria": {
+      "advparasitesurvivalroot": "2025-06-03 00:09:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "ice_flats": "2025-06-03 00:10:35 +0000",
+      "taiga_cold_hills": "2025-06-03 00:10:15 +0000",
+      "ice_mountains": "2025-06-03 00:10:55 +0000",
+      "taiga_cold": "2025-06-03 00:09:57 +0000",
+      "cold_beach": "2025-06-03 00:10:07 +0000",
+      "river": "2025-06-03 00:10:02 +0000"
+    },
+    "done": false
+  }
+}
