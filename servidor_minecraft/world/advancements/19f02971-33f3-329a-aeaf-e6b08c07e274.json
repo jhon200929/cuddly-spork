@@ -737,6 +737,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-06-05 20:31:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_the_recipe": "2025-06-04 22:09:25 +0000"
@@ -1612,6 +1618,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "beaches": "2025-06-05 20:28:07 +0000",
       "desert_hills": "2025-06-05 18:52:41 +0000",
       "savanna": "2025-06-04 22:09:25 +0000",
       "savanna_rock": "2025-06-05 18:53:43 +0000",
@@ -2352,6 +2359,7 @@
       "beef": "2025-06-05 18:55:07 +0000",
       "porkchop": "2025-06-05 19:15:20 +0000",
       "mutton": "2025-06-05 19:40:04 +0000",
+      "bread": "2025-06-05 20:28:23 +0000",
       "rotten_flesh": "2025-06-05 19:14:06 +0000",
       "cooked_chicken": "2025-06-05 19:19:17 +0000"
     },
