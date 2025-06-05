@@ -527,6 +527,12 @@
     },
     "done": true
   },
+  "mutantbeasts:root": {
+    "criteria": {
+      "killed_by_something": "2025-06-05 18:51:14 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_mangrove": {
     "criteria": {
       "has_the_recipe": "2025-06-04 22:09:25 +0000"
@@ -812,6 +818,12 @@
   "biomesoplenty:recipes/buildingblocks/eucalyptus_planks": {
     "criteria": {
       "has_the_recipe": "2025-06-04 22:09:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-06-05 18:51:14 +0000"
     },
     "done": true
   },
@@ -1579,7 +1591,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "desert_hills": "2025-06-05 18:52:41 +0000",
       "savanna": "2025-06-04 22:09:25 +0000",
+      "savanna_rock": "2025-06-05 18:53:43 +0000",
+      "river": "2025-06-05 18:52:37 +0000",
       "desert": "2025-06-04 22:09:39 +0000"
     },
     "done": false
@@ -2310,6 +2325,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "beef": "2025-06-05 18:55:07 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_the_recipe": "2025-06-04 22:09:25 +0000"
@@ -2607,6 +2628,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_the_recipe": "2025-06-04 22:09:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-06-05 18:55:07 +0000"
     },
     "done": true
   },
