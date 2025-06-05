@@ -693,3 +693,93 @@ com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
 [19:32:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Bicho_129 was shot by Bandit
 [19:32:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: apael213 was shot by Skeleton
 [19:32:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: apael213 was slain by Zombie Miner
+[19:33:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: apael213 was slain by Zombie Soldier
+[19:33:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: apael213 was shot by Skeleton Soldier
+[19:33:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Bicho_129 has made the advancement [Take Aim]
+[19:34:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: apael213 was shot by Bandit
+[19:34:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: apael213 was shot by Skeleton Soldier
+[19:37:21] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:37:54] [Server thread/WARN] [FML]: Quark loaded a new chunk [-3, -26] in dimension 0 (overworld) while populating chunk [-4, -26], causing cascading worldgen lag.
+[19:37:54] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:38:31] [Server thread/WARN] [FML]: Quark loaded a new chunk [-2, -31] in dimension 0 (overworld) while populating chunk [-3, -31], causing cascading worldgen lag.
+[19:38:31] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:38:31] [Server thread/WARN] [FML]: Quark loaded a new chunk [-3, -32] in dimension 0 (overworld) while populating chunk [-3, -31], causing cascading worldgen lag.
+[19:38:31] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:38:31] [Server thread/WARN] [FML]: Quark loaded a new chunk [-2, -32] in dimension 0 (overworld) while populating chunk [-3, -31], causing cascading worldgen lag.
+[19:38:31] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:38:31] [Server thread/WARN] [FML]: Quark loaded a new chunk [-1, -31] in dimension 0 (overworld) while populating chunk [-3, -31], causing cascading worldgen lag.
+[19:38:31] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:38:31] [Server thread/WARN] [FML]: Quark loaded a new chunk [-1, -32] in dimension 0 (overworld) while populating chunk [-3, -31], causing cascading worldgen lag.
+[19:38:31] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:38:31] [Server thread/WARN] [FML]: Quark loaded a new chunk [3, -32] in dimension 0 (overworld) while populating chunk [3, -31], causing cascading worldgen lag.
+[19:38:31] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:38:31] [Server thread/WARN] [FML]: Quark loaded a new chunk [3, -33] in dimension 0 (overworld) while populating chunk [3, -31], causing cascading worldgen lag.
+[19:38:31] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:38:31] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing OakTreeHuge
+[19:38:31] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [2, -32] in dimension 0 (overworld) while populating chunk [3, -33], causing cascading worldgen lag.
+[19:38:31] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:38:31] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing OakTreeHuge
+[19:38:31] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [2, -33] in dimension 0 (overworld) while populating chunk [3, -33], causing cascading worldgen lag.
+[19:38:31] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:38:34] [Server thread/WARN] [FML]: Techguns loaded a new chunk [-1, -33] in dimension 0 (overworld) while populating chunk [0, -32], causing cascading worldgen lag.
+[19:38:34] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:41:53] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: apael213 moved wrongly!
+[19:41:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Bicho_129 has made the advancement [Isn't It Iron Pick]
+[19:43:41] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: El_Bicho_129 lost connection: Timed out
+[19:43:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Bicho_129 left the game
+[19:43:45] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: apael213 lost connection: You logged in from another location
+[19:43:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: apael213 left the game
+[19:43:46] [Netty Epoll Server IO #4/INFO] [FML]: Client protocol version 2
+[19:43:46] [Netty Epoll Server IO #4/INFO] [FML]: Client attempting to join with 48 mods : minecraft@1.12.2,advancedrifles@0.6.0,extendedrenderer@v1.0,dldungeonsjbg@1.14.14,cgm@0.15.3,biomesoplenty@7.0.1.2444,configmod@v1.0,jei@4.16.1.1013,reccomplex@1.4.8.6,vehicle@0.44.1,horror_elements_mod@1.0.0,ivtoolkit@1.3.3-1.12,techguns_core@1.12.2-1.0,bloodmoon@1.5.3,quark@r1.6-179,bettercaves@1.12.2,mcp@9.42,mobsunscreen@@version@,securitycraft@v1.10,autoreglib@1.3-32,betteranimals@5.5.0,backpacked@1.4.2,toughasnails@3.1.0.141,zombieawareness@1.12.1-1.11.16,mobamputation@7.0.0,mo@1.0,FML@8.0.99.99,obfuscate@0.4.2,betteranimalsplus@9.0.1,badmobs@1.1.40,mutantbeasts@1.12.2-1.0.2,atlaslib@1.1.6,coroutil@1.12.1-1.2.37,omlib@3.1.5-256,cfm@6.3.0,additionalstructures@2.5.0,hordes@1.5.3a,minetraps@1.0.4,hw_inv@1.12.1-1.1.13,ichunutil@7.2.2,tlauncher_custom_cape_skin@1.4,firstaid@1.6.22,forge@14.23.5.2860,openmodularturrets@3.1.14-382,orelib@3.6.0.1,dsurround@@VERSION@,mobends@1.2.1,techguns@2.0.2.0
+[19:43:46] [Netty Epoll Server IO #4/INFO] [journeymap]: CLIENT
+[19:43:46] [Netty Epoll Server IO #4/INFO] [FML]: Attempting connection with missing mods [journeymap, lostcities] at CLIENT
+[19:43:47] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[19:43:47] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: apael213[/127.42.220.211:51649] logged in with entity id 77803 at (18.370192153290418, 57.0, 96.4059082431936)
+[19:43:47] [Server thread/INFO] [dsurround]: Player [apael213] connected with Dynamic Surroundings @VERSION@
+[19:43:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: apael213 joined the game
+[19:43:56] [Netty Epoll Server IO #7/INFO] [FML]: Client protocol version 2
+[19:43:56] [Netty Epoll Server IO #7/INFO] [FML]: Client attempting to join with 48 mods : minecraft@1.12.2,advancedrifles@0.6.0,extendedrenderer@v1.0,dldungeonsjbg@1.14.14,cgm@0.15.3,biomesoplenty@7.0.1.2444,configmod@v1.0,jei@4.16.1.1013,reccomplex@1.4.8.6,vehicle@0.44.1,horror_elements_mod@1.0.0,ivtoolkit@1.3.3-1.12,techguns_core@1.12.2-1.0,bloodmoon@1.5.3,quark@r1.6-179,bettercaves@1.12.2,mcp@9.42,mobsunscreen@@version@,securitycraft@v1.10,autoreglib@1.3-32,betteranimals@5.5.0,backpacked@1.4.2,toughasnails@3.1.0.141,zombieawareness@1.12.1-1.11.16,lostcities@2.0.22,mobamputation@7.0.0,mo@1.0,FML@8.0.99.99,obfuscate@0.4.2,betteranimalsplus@9.0.1,badmobs@1.1.40,mutantbeasts@1.12.2-1.0.2,atlaslib@1.1.6,coroutil@1.12.1-1.2.37,omlib@3.1.5-256,cfm@6.3.0,additionalstructures@2.5.0,hordes@1.5.3a,minetraps@1.0.4,hw_inv@1.12.1-1.1.13,ichunutil@7.2.2,firstaid@1.6.22,forge@14.23.5.2859,openmodularturrets@3.1.14-382,orelib@3.6.0.1,dsurround@@VERSION@,mobends@1.2.1,techguns@2.0.2.0
+[19:43:56] [Netty Epoll Server IO #7/INFO] [journeymap]: CLIENT
+[19:43:56] [Netty Epoll Server IO #7/INFO] [FML]: Attempting connection with missing mods [journeymap] at CLIENT
+[19:44:00] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[19:44:00] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: El_Bicho_129[/127.44.126.249:60835] logged in with entity id 77919 at (13.943706281085442, 57.0, 20.607678500516812)
+[19:44:00] [Server thread/INFO] [dsurround]: Player [El_Bicho_129] connected with Dynamic Surroundings @VERSION@
+[19:44:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Bicho_129 joined the game
+[19:44:03] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[19:44:03] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 48 mods : minecraft@1.12.2,advancedrifles@0.6.0,extendedrenderer@v1.0,dldungeonsjbg@1.14.14,cgm@0.15.3,biomesoplenty@7.0.1.2444,configmod@v1.0,jei@4.16.1.1013,reccomplex@1.4.8.6,vehicle@0.44.1,horror_elements_mod@1.0.0,ivtoolkit@1.3.3-1.12,techguns_core@1.12.2-1.0,bloodmoon@1.5.3,quark@r1.6-179,bettercaves@1.12.2,mcp@9.42,mobsunscreen@@version@,securitycraft@v1.10,autoreglib@1.3-32,betteranimals@5.5.0,backpacked@1.4.2,toughasnails@3.1.0.141,zombieawareness@1.12.1-1.11.16,lostcities@2.0.22,mobamputation@7.0.0,mo@1.0,FML@8.0.99.99,obfuscate@0.4.2,betteranimalsplus@9.0.1,badmobs@1.1.40,mutantbeasts@1.12.2-1.0.2,atlaslib@1.1.6,coroutil@1.12.1-1.2.37,omlib@3.1.5-256,cfm@6.3.0,additionalstructures@2.5.0,hordes@1.5.3a,minetraps@1.0.4,hw_inv@1.12.1-1.1.13,ichunutil@7.2.2,firstaid@1.6.22,forge@14.23.5.2859,openmodularturrets@3.1.14-382,orelib@3.6.0.1,dsurround@@VERSION@,mobends@1.2.1,techguns@2.0.2.0
+[19:44:03] [Netty Epoll Server IO #0/INFO] [journeymap]: CLIENT
+[19:44:03] [Netty Epoll Server IO #0/INFO] [FML]: Attempting connection with missing mods [journeymap] at CLIENT
+[19:44:05] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[19:44:05] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: El_Bicho_129[/127.44.126.249:46311] logged in with entity id 77923 at (13.943706281085442, 57.0, 20.607678500516812)
+[19:44:05] [Server thread/INFO] [dsurround]: Player [El_Bicho_129] connected with Dynamic Surroundings @VERSION@
+[19:44:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Bicho_129 joined the game
+[19:44:05] [Server thread/WARN] [net.minecraft.world.WorldServer]: Force-added player with duplicate UUID 19f02971-33f3-329a-aeaf-e6b08c07e274
+[19:44:48] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: El_Bicho_129 lost connection: Disconnected
+[19:44:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Bicho_129 left the game
+[19:44:48] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: El_Bicho_129 lost connection: Disconnected
+[19:44:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Bicho_129 left the game
+[19:45:53] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: apael213 lost connection: You logged in from another location
+[19:45:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: apael213 left the game
+[19:45:54] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[19:45:54] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 48 mods : minecraft@1.12.2,advancedrifles@0.6.0,extendedrenderer@v1.0,dldungeonsjbg@1.14.14,cgm@0.15.3,biomesoplenty@7.0.1.2444,configmod@v1.0,jei@4.16.1.1013,reccomplex@1.4.8.6,vehicle@0.44.1,horror_elements_mod@1.0.0,ivtoolkit@1.3.3-1.12,techguns_core@1.12.2-1.0,bloodmoon@1.5.3,quark@r1.6-179,bettercaves@1.12.2,mcp@9.42,mobsunscreen@@version@,securitycraft@v1.10,autoreglib@1.3-32,betteranimals@5.5.0,backpacked@1.4.2,toughasnails@3.1.0.141,zombieawareness@1.12.1-1.11.16,mobamputation@7.0.0,mo@1.0,FML@8.0.99.99,obfuscate@0.4.2,betteranimalsplus@9.0.1,badmobs@1.1.40,mutantbeasts@1.12.2-1.0.2,atlaslib@1.1.6,coroutil@1.12.1-1.2.37,omlib@3.1.5-256,cfm@6.3.0,additionalstructures@2.5.0,hordes@1.5.3a,minetraps@1.0.4,hw_inv@1.12.1-1.1.13,ichunutil@7.2.2,tlauncher_custom_cape_skin@1.4,firstaid@1.6.22,forge@14.23.5.2860,openmodularturrets@3.1.14-382,orelib@3.6.0.1,dsurround@@VERSION@,mobends@1.2.1,techguns@2.0.2.0
+[19:45:54] [Netty Epoll Server IO #2/INFO] [journeymap]: CLIENT
+[19:45:54] [Netty Epoll Server IO #2/INFO] [FML]: Attempting connection with missing mods [journeymap, lostcities] at CLIENT
+[19:45:55] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[19:45:55] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: apael213[/127.42.220.211:34211] logged in with entity id 82496 at (15.569466322487772, 53.0, 96.61652390629435)
+[19:45:55] [Server thread/INFO] [dsurround]: Player [apael213] connected with Dynamic Surroundings @VERSION@
+[19:45:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: apael213 joined the game
+[19:47:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: apael213 has made the advancement [Sweet dreams]
+[19:47:32] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: El_Bicho_129 lost connection: Disconnected
+[19:47:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Bicho_129 left the game
+[19:47:38] [Netty Epoll Server IO #5/INFO] [FML]: Client protocol version 2
+[19:47:38] [Netty Epoll Server IO #5/INFO] [FML]: Client attempting to join with 48 mods : minecraft@1.12.2,advancedrifles@0.6.0,extendedrenderer@v1.0,dldungeonsjbg@1.14.14,cgm@0.15.3,biomesoplenty@7.0.1.2444,configmod@v1.0,jei@4.16.1.1013,reccomplex@1.4.8.6,vehicle@0.44.1,horror_elements_mod@1.0.0,ivtoolkit@1.3.3-1.12,techguns_core@1.12.2-1.0,bloodmoon@1.5.3,quark@r1.6-179,bettercaves@1.12.2,mcp@9.42,mobsunscreen@@version@,securitycraft@v1.10,autoreglib@1.3-32,betteranimals@5.5.0,backpacked@1.4.2,toughasnails@3.1.0.141,zombieawareness@1.12.1-1.11.16,lostcities@2.0.22,mobamputation@7.0.0,mo@1.0,FML@8.0.99.99,obfuscate@0.4.2,betteranimalsplus@9.0.1,badmobs@1.1.40,mutantbeasts@1.12.2-1.0.2,atlaslib@1.1.6,coroutil@1.12.1-1.2.37,omlib@3.1.5-256,cfm@6.3.0,additionalstructures@2.5.0,hordes@1.5.3a,minetraps@1.0.4,hw_inv@1.12.1-1.1.13,ichunutil@7.2.2,firstaid@1.6.22,forge@14.23.5.2859,openmodularturrets@3.1.14-382,orelib@3.6.0.1,dsurround@@VERSION@,mobends@1.2.1,techguns@2.0.2.0
+[19:47:38] [Netty Epoll Server IO #5/INFO] [journeymap]: CLIENT
+[19:47:38] [Netty Epoll Server IO #5/INFO] [FML]: Attempting connection with missing mods [journeymap] at CLIENT
+[19:47:41] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[19:47:41] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: El_Bicho_129[/127.44.126.249:37305] logged in with entity id 88502 at (13.450877059983455, 57.0, 20.630970763089607)
+[19:47:41] [Server thread/INFO] [dsurround]: Player [El_Bicho_129] connected with Dynamic Surroundings @VERSION@
+[19:47:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Bicho_129 joined the game
+[19:50:33] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:50:38] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:50:54] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:52:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: apael213 has made the advancement [Isn't It Iron Pick]

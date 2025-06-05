@@ -890,6 +890,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "skeleton": "2025-06-05 19:31:13 +0000",
+      "husk": "2025-06-05 19:33:54 +0000",
       "zombie": "2025-06-05 19:07:12 +0000",
       "spider": "2025-06-05 19:27:42 +0000"
     },
@@ -1474,6 +1475,12 @@
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_the_recipe": "2025-06-04 22:09:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-06-05 19:41:56 +0000"
     },
     "done": true
   },
@@ -2341,8 +2348,10 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2025-06-05 19:42:10 +0000",
       "beef": "2025-06-05 18:55:07 +0000",
       "porkchop": "2025-06-05 19:15:20 +0000",
+      "mutton": "2025-06-05 19:40:04 +0000",
       "rotten_flesh": "2025-06-05 19:14:06 +0000",
       "cooked_chicken": "2025-06-05 19:19:17 +0000"
     },
@@ -3581,6 +3590,12 @@
   "biomesoplenty:recipes/misc/magenta_dye_from_wildflower": {
     "criteria": {
       "has_the_recipe": "2025-06-04 22:09:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-06-05 19:33:17 +0000"
     },
     "done": true
   },
