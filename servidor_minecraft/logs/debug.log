@@ -22053,3 +22053,81 @@ com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
 [20:32:59] [Server thread/TRACE] [reccomplex]: Structure 'SavannaTree1' canceled generation at [165, -452] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@8d3519c
 [20:32:59] [Server thread/TRACE] [reccomplex]: Generated structure 'Fiberpalm' in StructureBoundingBox{x0=155, y0=72, z0=-447, x1=165, y1=85, z1=-437} (0)
 [20:33:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Bicho_129 has made the advancement [Suit Up]
+[20:33:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:33:25] [Server thread/TRACE] [reccomplex]: Structure 'SavannaTree1' canceled generation at [175, -388] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@8d3519c
+[20:33:25] [Server thread/TRACE] [reccomplex]: Generated structure 'Mopane' in StructureBoundingBox{x0=165, y0=68, z0=-386, x1=177, y1=80, z1=-375} (0)
+[20:33:30] [Server thread/TRACE] [reccomplex]: Generated structure 'SmallWoodenCottage2' in StructureBoundingBox{x0=182, y0=64, z0=-476, x1=190, y1=71, z1=-468} (0)
+[20:33:31] [Server thread/TRACE] [reccomplex]: Structure 'SavannaTree' canceled generation at [188, -395] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@8d3519c
+[20:33:31] [Server thread/TRACE] [reccomplex]: Generated structure 'Mopane' in StructureBoundingBox{x0=186, y0=66, z0=-412, x1=197, y1=78, z1=-400} (0)
+[20:34:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:34:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:35:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:36:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:37:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:37:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: apael213 moved wrongly!
+[20:37:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:38:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:39:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:39:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: apael213 has made the advancement [Not Today, Thank You]
+[20:39:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Bicho_129 has made the advancement [Not Today, Thank You]
+[20:39:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Bicho_129 was shot by Zombie Policeman
+[20:40:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:40:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: apael213 was shot by Zombie Policeman
+[20:40:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:40:53] [Server thread/TRACE] [reccomplex]: Structure 'Fiberpalm' canceled generation at [-433, 51] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@8d3519c
+[20:40:53] [Server thread/TRACE] [reccomplex]: Structure 'Fiberpalm' canceled generation at [-430, 43] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@8d3519c
+[20:40:53] [Server thread/TRACE] [reccomplex]: Structure 'Mopane' canceled generation at [-427, 42] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@8d3519c
+[20:40:53] [Server thread/TRACE] [reccomplex]: Structure 'Fiberpalm' canceled generation at [-431, 49] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@8d3519c
+[20:40:53] [Server thread/TRACE] [reccomplex]: Structure 'Fiberpalm' canceled generation at [-426, 48] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@8d3519c
+[20:40:59] [Server thread/TRACE] [reccomplex]: Generated structure 'Fiberpalm' in StructureBoundingBox{x0=-453, y0=63, z0=70, x1=-443, y1=76, z1=80} (0)
+[20:41:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:42:16] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: El_Bicho_129 lost connection: Disconnected
+[20:42:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Bicho_129 left the game
+[20:42:18] [Server thread/TRACE] [reccomplex]: Structure 'WhiteWillowLarge' canceled generation at [173, -684] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@8d3519c
+[20:42:18] [Server thread/TRACE] [reccomplex]: Generated structure 'GenericTree3' in StructureBoundingBox{x0=167, y0=67, z0=-696, x1=172, y1=81, z1=-690} (0)
+[20:42:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:42:50] [Server thread/INFO] [STDOUT]: [techguns.items.GenericItemShared:func_77659_a:333]: amount not merged:0
+[20:42:55] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: apael213 lost connection: Disconnected
+[20:42:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: apael213 left the game
+[20:43:04] [Server thread/TRACE] [FML]: Handshake channel activating
+[20:43:04] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[20:43:04] [Server thread/DEBUG] [FML]:   Next: HELLO
+[20:43:04] [Netty Epoll Server IO #7/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[20:43:04] [Netty Epoll Server IO #7/INFO] [FML]: Client protocol version 2
+[20:43:04] [Netty Epoll Server IO #7/DEBUG] [FML]: FMLHandshakeServerState: $ModList:48 mods->FMLHandshakeServerState$2:HELLO
+[20:43:04] [Netty Epoll Server IO #7/INFO] [FML]: Client attempting to join with 48 mods : minecraft@1.12.2,advancedrifles@0.6.0,extendedrenderer@v1.0,dldungeonsjbg@1.14.14,cgm@0.15.3,biomesoplenty@7.0.1.2444,configmod@v1.0,jei@4.16.1.1013,reccomplex@1.4.8.6,vehicle@0.44.1,horror_elements_mod@1.0.0,ivtoolkit@1.3.3-1.12,techguns_core@1.12.2-1.0,bloodmoon@1.5.3,quark@r1.6-179,bettercaves@1.12.2,mcp@9.42,mobsunscreen@@version@,securitycraft@v1.10,autoreglib@1.3-32,betteranimals@5.5.0,backpacked@1.4.2,toughasnails@3.1.0.141,zombieawareness@1.12.1-1.11.16,mobamputation@7.0.0,mo@1.0,FML@8.0.99.99,obfuscate@0.4.2,betteranimalsplus@9.0.1,badmobs@1.1.40,mutantbeasts@1.12.2-1.0.2,atlaslib@1.1.6,coroutil@1.12.1-1.2.37,omlib@3.1.5-256,cfm@6.3.0,additionalstructures@2.5.0,hordes@1.5.3a,minetraps@1.0.4,hw_inv@1.12.1-1.1.13,ichunutil@7.2.2,tlauncher_custom_cape_skin@1.4,firstaid@1.6.22,forge@14.23.5.2860,openmodularturrets@3.1.14-382,orelib@3.6.0.1,dsurround@@VERSION@,mobends@1.2.1,techguns@2.0.2.0
+[20:43:04] [Netty Epoll Server IO #7/INFO] [journeymap]: CLIENT
+[20:43:04] [Netty Epoll Server IO #7/INFO] [FML]: Attempting connection with missing mods [journeymap, lostcities] at CLIENT
+[20:43:04] [Netty Epoll Server IO #7/DEBUG] [FML]:   Next: WAITINGCACK
+[20:43:04] [Netty Epoll Server IO #7/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[20:43:04] [Netty Epoll Server IO #7/DEBUG] [FML]:   Next: COMPLETE
+[20:43:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:43:05] [Netty Epoll Server IO #7/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[20:43:05] [Netty Epoll Server IO #7/DEBUG] [FML]:   Next: DONE
+[20:43:05] [Netty Epoll Server IO #7/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[20:43:05] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[20:43:05] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: apael213[/127.42.220.211:48473] logged in with entity id 212609 at (-9.083016685181372, 71.5625, -470.3392206572113)
+[20:43:05] [Server thread/INFO] [dsurround]: Player [apael213] connected with Dynamic Surroundings @VERSION@
+[20:43:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: apael213 joined the game
+[20:43:05] [Server thread/DEBUG] [firstaid]: Sending damage model to apael213
+[20:43:05] [Netty Epoll Server IO #7/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[20:43:18] [Server thread/TRACE] [FML]: Handshake channel activating
+[20:43:18] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[20:43:18] [Server thread/DEBUG] [FML]:   Next: HELLO
+[20:43:19] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[20:43:19] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[20:43:19] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $ModList:48 mods->FMLHandshakeServerState$2:HELLO
+[20:43:19] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 48 mods : minecraft@1.12.2,advancedrifles@0.6.0,extendedrenderer@v1.0,dldungeonsjbg@1.14.14,cgm@0.15.3,biomesoplenty@7.0.1.2444,configmod@v1.0,jei@4.16.1.1013,reccomplex@1.4.8.6,vehicle@0.44.1,horror_elements_mod@1.0.0,ivtoolkit@1.3.3-1.12,techguns_core@1.12.2-1.0,bloodmoon@1.5.3,quark@r1.6-179,bettercaves@1.12.2,mcp@9.42,mobsunscreen@@version@,securitycraft@v1.10,autoreglib@1.3-32,betteranimals@5.5.0,backpacked@1.4.2,toughasnails@3.1.0.141,zombieawareness@1.12.1-1.11.16,lostcities@2.0.22,mobamputation@7.0.0,mo@1.0,FML@8.0.99.99,obfuscate@0.4.2,betteranimalsplus@9.0.1,badmobs@1.1.40,mutantbeasts@1.12.2-1.0.2,atlaslib@1.1.6,coroutil@1.12.1-1.2.37,omlib@3.1.5-256,cfm@6.3.0,additionalstructures@2.5.0,hordes@1.5.3a,minetraps@1.0.4,hw_inv@1.12.1-1.1.13,ichunutil@7.2.2,firstaid@1.6.22,forge@14.23.5.2859,openmodularturrets@3.1.14-382,orelib@3.6.0.1,dsurround@@VERSION@,mobends@1.2.1,techguns@2.0.2.0
+[20:43:19] [Netty Epoll Server IO #0/INFO] [journeymap]: CLIENT
+[20:43:19] [Netty Epoll Server IO #0/INFO] [FML]: Attempting connection with missing mods [journeymap] at CLIENT
+[20:43:19] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: WAITINGCACK
+[20:43:19] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[20:43:19] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: COMPLETE
+[20:43:21] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[20:43:21] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: DONE
+[20:43:21] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[20:43:21] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[20:43:21] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: El_Bicho_129[/127.44.126.249:38779] logged in with entity id 212965 at (-30.754371160145027, 70.0, -357.13762442125903)
+[20:43:21] [Server thread/INFO] [dsurround]: Player [El_Bicho_129] connected with Dynamic Surroundings @VERSION@
+[20:43:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Bicho_129 joined the game
+[20:43:21] [Server thread/DEBUG] [firstaid]: Sending damage model to El_Bicho_129
