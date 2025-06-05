@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/buildingblocks/coarse_silty_dirt": {
+    "criteria": {
+      "has_gravel": "2025-06-05 19:59:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2025-06-05 19:05:53 +0000"
@@ -221,6 +227,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/buildingblocks/coarse_loamy_dirt": {
+    "criteria": {
+      "has_gravel": "2025-06-05 19:59:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "entered_water": "2025-06-05 18:56:53 +0000"
@@ -301,7 +313,9 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "beef": "2025-06-05 19:00:12 +0000"
+      "beef": "2025-06-05 19:00:12 +0000",
+      "apple": "2025-06-05 19:56:04 +0000",
+      "bread": "2025-06-05 19:54:54 +0000"
     },
     "done": false
   },
@@ -347,6 +361,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_bone": {
+    "criteria": {
+      "has_bone": "2025-06-05 19:54:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_sand": "2025-06-05 19:07:06 +0000"
@@ -356,6 +376,18 @@
   "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-06-05 19:40:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-06-05 19:58:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-06-05 19:59:27 +0000"
     },
     "done": true
   },
@@ -539,6 +571,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/buildingblocks/coarse_sandy_dirt": {
+    "criteria": {
+      "has_gravel": "2025-06-05 19:59:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar": {
     "criteria": {
       "has_reeds": "2025-06-05 19:42:20 +0000"
@@ -572,6 +610,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-06-05 19:05:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-06-05 19:54:06 +0000"
     },
     "done": true
   },
@@ -824,6 +868,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/sand_from_dried_sand": {
+    "criteria": {
+      "has_gem_block": "2025-06-05 19:54:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-06-05 19:09:14 +0000"
@@ -851,6 +901,12 @@
   "cfm:root": {
     "criteria": {
       "tick": "2025-06-05 18:49:47 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/mud_from_dirt": {
+    "criteria": {
+      "has_gem_block": "2025-06-05 19:54:06 +0000"
     },
     "done": true
   },
