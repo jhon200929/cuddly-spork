@@ -209,6 +209,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-06-05 19:11:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-06-05 19:05:53 +0000"
@@ -299,6 +305,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-06-05 19:09:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2025-06-05 19:07:06 +0000"
@@ -335,6 +347,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/noteblock": {
+    "criteria": {
+      "has_redstone": "2025-06-05 19:09:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-06-05 19:11:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_sand": "2025-06-05 19:07:06 +0000"
@@ -362,6 +386,18 @@
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
       "has_log2": "2025-06-05 18:50:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-06-05 19:11:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-06-05 19:09:14 +0000"
     },
     "done": true
   },
@@ -435,6 +471,12 @@
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2025-06-05 19:05:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-06-05 19:09:14 +0000"
     },
     "done": true
   },
@@ -570,6 +612,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-06-05 19:09:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "entered_water": "2025-06-05 18:56:53 +0000"
@@ -593,6 +641,12 @@
       "zombie": "2025-06-05 18:58:41 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-06-05 19:09:14 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {

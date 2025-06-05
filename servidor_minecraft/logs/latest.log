@@ -761,3 +761,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
 [19:06:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: apael213 was shot by Army Soldier
 [19:07:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Bicho_129 has made the advancement [Monster Hunter]
 [19:07:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: apael213 was shot by Army Soldier
+[19:09:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Bicho_129 was slain by Zombie
+[19:09:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: apael213 was shot by Zombie Soldier
+[19:10:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: apael213 was shot by Skeleton
+[19:14:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Bicho_129 has made the advancement [Acquire Hardware]
