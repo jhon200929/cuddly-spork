@@ -21304,3 +21304,64 @@ com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
 [20:01:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [20:01:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Bicho_129 was slain by Zombie
 [20:02:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:03:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Bicho_129 was slain by Zombie
+[20:03:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: apael213 was slain by Zombie
+[20:03:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:03:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: apael213 was slain by Zombie
+[20:03:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Bicho_129 was slain by El_Bicho_129's Zombie
+[20:03:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: apael213 was slain by Zombie
+[20:03:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Bicho_129 was slain by Zombie
+[20:04:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Bicho_129 was slain by Zombie
+[20:04:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:04:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Bicho_129 was slain by Zombie
+[20:04:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Bicho_129 was slain by Zombie
+[20:04:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Bicho_129 was slain by apael213's Zombie
+[20:04:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:05:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Bicho_129 was slain by apael213's Zombie
+[20:05:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: apael213 was slain by El_Bicho_129's Zombie
+[20:05:13] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:05:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Bicho_129 was slain by Zombie
+[20:05:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: apael213 was slain by Zombie
+[20:05:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:05:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Bicho_129 was slain by apael213's Zombie
+[20:06:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Bicho_129 was slain by El_Bicho_129's Zombie
+[20:06:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: apael213 was slain by Zombie
+[20:06:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:06:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Bicho_129 was slain by Zombie
+[20:06:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Bicho_129 was slain by El_Bicho_129's Zombie
+[20:06:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: apael213 was slain by El_Bicho_129's Zombie
+[20:06:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Bicho_129 was slain by El_Bicho_129's Zombie
+[20:07:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: apael213 was slain by El_Bicho_129's Zombie
+[20:07:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Bicho_129 was slain by El_Bicho_129's Zombie
+[20:07:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:07:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Bicho_129 was slain by apael213's Zombie
+[20:07:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: apael213 was slain by El_Bicho_129's Zombie
+[20:07:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: apael213 was slain by apael213's Zombie
+[20:07:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Bicho_129 was slain by El_Bicho_129's Zombie
+[20:07:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:08:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: apael213 was shot by Skeleton Soldier
+[20:08:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:09:00] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:09:15] [Server thread/TRACE] [reccomplex]: Generated structure 'Fiberpalm' in StructureBoundingBox{x0=-357, y0=63, z0=-165, x1=-347, y1=76, z1=-155} (0)
+[20:09:18] [Server thread/TRACE] [reccomplex]: Structure 'Fiberpalm' canceled generation at [-361, -79] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@8d3519c
+[20:09:18] [Server thread/TRACE] [reccomplex]: Structure 'SavannaTree1' canceled generation at [-363, -77] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@8d3519c
+[20:09:18] [Server thread/TRACE] [reccomplex]: Generated structure 'SavannaTree' in StructureBoundingBox{x0=-379, y0=62, z0=-83, x1=-371, y1=74, z1=-75} (0)
+[20:09:18] [Server thread/TRACE] [reccomplex]: Structure 'SavannaTree' canceled generation at [-363, -123] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@8d3519c
+[20:09:18] [Server thread/TRACE] [reccomplex]: Structure 'SavannaTree' canceled generation at [-361, -123] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@8d3519c
+[20:09:18] [Server thread/TRACE] [reccomplex]: Generated structure 'SavannaTree' in StructureBoundingBox{x0=-368, y0=67, z0=-140, x1=-360, y1=79, z1=-132} (0)
+[20:09:18] [Server thread/TRACE] [reccomplex]: Generated structure 'Fiberpalm' in StructureBoundingBox{x0=-372, y0=68, z0=-133, x1=-362, y1=81, z1=-123} (0)
+[20:09:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:09:24] [Server thread/TRACE] [reccomplex]: Generated structure 'Mopane' in StructureBoundingBox{x0=-383, y0=66, z0=-169, x1=-372, y1=78, z1=-157} (0)
+[20:09:24] [Server thread/TRACE] [reccomplex]: Structure 'SavannaTree1' canceled generation at [-388, -82] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@8d3519c
+[20:09:24] [Server thread/TRACE] [reccomplex]: Generated structure 'SavannaTree' in StructureBoundingBox{x0=-394, y0=74, z0=-90, x1=-386, y1=86, z1=-82} (0)
+[20:09:24] [Server thread/TRACE] [reccomplex]: Structure 'SavannaTree1' canceled generation at [-391, -136] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@8d3519c
+[20:09:24] [Server thread/TRACE] [reccomplex]: Generated structure 'SavannaTree' in StructureBoundingBox{x0=-388, y0=67, z0=-127, x1=-380, y1=79, z1=-119} (0)
+[20:09:34] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:10:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:10:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:11:13] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:11:26] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:11:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:12:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:12:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: apael213 was shot by Zombie Farmer
+[20:13:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world

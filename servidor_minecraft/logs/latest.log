@@ -813,3 +813,37 @@ com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
 [20:00:29] [Server thread/INFO] [dsurround]: Player [apael213] connected with Dynamic Surroundings @VERSION@
 [20:00:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: apael213 joined the game
 [20:01:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Bicho_129 was slain by Zombie
+[20:03:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Bicho_129 was slain by Zombie
+[20:03:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: apael213 was slain by Zombie
+[20:03:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: apael213 was slain by Zombie
+[20:03:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Bicho_129 was slain by El_Bicho_129's Zombie
+[20:03:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: apael213 was slain by Zombie
+[20:03:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Bicho_129 was slain by Zombie
+[20:04:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Bicho_129 was slain by Zombie
+[20:04:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Bicho_129 was slain by Zombie
+[20:04:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Bicho_129 was slain by Zombie
+[20:04:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Bicho_129 was slain by apael213's Zombie
+[20:05:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Bicho_129 was slain by apael213's Zombie
+[20:05:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: apael213 was slain by El_Bicho_129's Zombie
+[20:05:13] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:05:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Bicho_129 was slain by Zombie
+[20:05:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: apael213 was slain by Zombie
+[20:05:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Bicho_129 was slain by apael213's Zombie
+[20:06:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Bicho_129 was slain by El_Bicho_129's Zombie
+[20:06:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: apael213 was slain by Zombie
+[20:06:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Bicho_129 was slain by Zombie
+[20:06:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Bicho_129 was slain by El_Bicho_129's Zombie
+[20:06:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: apael213 was slain by El_Bicho_129's Zombie
+[20:06:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Bicho_129 was slain by El_Bicho_129's Zombie
+[20:07:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: apael213 was slain by El_Bicho_129's Zombie
+[20:07:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Bicho_129 was slain by El_Bicho_129's Zombie
+[20:07:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Bicho_129 was slain by apael213's Zombie
+[20:07:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: apael213 was slain by El_Bicho_129's Zombie
+[20:07:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: apael213 was slain by apael213's Zombie
+[20:07:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Bicho_129 was slain by El_Bicho_129's Zombie
+[20:08:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: apael213 was shot by Skeleton Soldier
+[20:09:00] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:09:34] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:11:13] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:11:26] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:12:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: apael213 was shot by Zombie Farmer
